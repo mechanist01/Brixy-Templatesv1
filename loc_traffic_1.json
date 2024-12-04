@@ -1,0 +1,3373 @@
+[
+    {
+        "searchString": "apartments",
+        "rank": 5,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@27.988359777615862,-82.50135190643701,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@27.9883598,-82.5013519,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Essex Place Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment complex",
+        "address": "3415 W Hillsborough Ave, Tampa, FL 33614",
+        "neighborhood": null,
+        "street": "3415 W Hillsborough Ave",
+        "city": "Tampa",
+        "postalCode": "33614",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "http://www.essexplaceapts.com/",
+        "phone": "(813) 870-2442",
+        "phoneUnformatted": "+18138702442",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9973526,
+            "lng": -82.4988555
+        },
+        "locatedIn": null,
+        "plusCode": "XGW2+WF Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.4,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJ5VAobd7DwogRlwSygjtST54",
+        "categories": [
+            "Apartment complex"
+        ],
+        "cid": "11407426796702008471",
+        "reviewsCount": 142,
+        "reviewsDistribution": {
+            "oneStar": 43,
+            "twoStar": 9,
+            "threeStar": 9,
+            "fourStar": 13,
+            "fiveStar": 68
+        },
+        "imagesCount": 33,
+        "imageCategories": [
+            "All",
+            "Exterior",
+            "Videos",
+            "From visitors",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:45:26.726Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "10 AM to 5 PM"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Fernwood Grove Apartments",
+                "reviewsCount": 119,
+                "totalScore": 3.7
+            },
+            {
+                "category": "People also search for",
+                "title": "The Oaks of Woodland Park Apartments",
+                "reviewsCount": 258,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Legend Oaks Apartments",
+                "reviewsCount": 177,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Tuscany Pointe at Tampa Apartment Homes",
+                "reviewsCount": 159,
+                "totalScore": 2.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Park Pointe Apartments",
+                "reviewsCount": 88,
+                "totalScore": 3.1
+            }
+        ],
+        "placesTags": [
+            {
+                "title": "Services",
+                "count": 2
+            },
+            {
+                "title": "Other",
+                "count": 1
+            }
+        ],
+        "reviewsTags": [
+            {
+                "title": "rent",
+                "count": 15
+            },
+            {
+                "title": "parking",
+                "count": 15
+            },
+            {
+                "title": "clean",
+                "count": 11
+            },
+            {
+                "title": "maintenance",
+                "count": 10
+            },
+            {
+                "title": "pay",
+                "count": 10
+            },
+            {
+                "title": "office",
+                "count": 7
+            },
+            {
+                "title": "property",
+                "count": 7
+            },
+            {
+                "title": "charge",
+                "count": 6
+            },
+            {
+                "title": "review",
+                "count": 6
+            },
+            {
+                "title": "towed",
+                "count": 5
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Essex%20Place%20Apartments&query_place_id=ChIJ5VAobd7DwogRlwSygjtST54",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 2,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@27.988359777615862,-82.50135190643701,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@27.9883598,-82.5013519,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Tuscany Pointe at Tampa Apartment Homes",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment rental agency",
+        "address": "3350 W Hillsborough Ave, Tampa, FL 33614",
+        "neighborhood": "Northwest Tampa",
+        "street": "3350 W Hillsborough Ave",
+        "city": "Tampa",
+        "postalCode": "33614",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "https://www.morgan-properties.com/apartments/fl/tampa/tuscany-pointe-at-tampa/?utm_source=googlemybusiness&utm_medium=organic",
+        "phone": "(833) 750-1708",
+        "phoneUnformatted": "+18337501708",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9936583,
+            "lng": -82.498157
+        },
+        "locatedIn": null,
+        "plusCode": "XGV2+FP Tampa, Florida",
+        "menu": null,
+        "totalScore": 2.6,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJuRb4k93DwogRVzOJHbz-feQ",
+        "categories": [
+            "Apartment rental agency",
+            "Property management company"
+        ],
+        "cid": "16464595896639238999",
+        "reviewsCount": 159,
+        "reviewsDistribution": {
+            "oneStar": 81,
+            "twoStar": 13,
+            "threeStar": 5,
+            "fourStar": 6,
+            "fiveStar": 54
+        },
+        "imagesCount": 91,
+        "imageCategories": [
+            "All",
+            "Latest",
+            "Inside",
+            "By owner"
+        ],
+        "scrapedAt": "2024-02-22T19:45:27.343Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "10 AM to 6 PM"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Park Pointe Apartments",
+                "reviewsCount": 88,
+                "totalScore": 3.1
+            },
+            {
+                "category": "People also search for",
+                "title": "Meridian Pointe Apartments",
+                "reviewsCount": 245,
+                "totalScore": 3.3
+            },
+            {
+                "category": "People also search for",
+                "title": "Rocky Creek Apartments",
+                "reviewsCount": 183,
+                "totalScore": 4.1
+            },
+            {
+                "category": "People also search for",
+                "title": "Courtney Cove Apartment Homes",
+                "reviewsCount": 203,
+                "totalScore": 3.2
+            },
+            {
+                "category": "People also search for",
+                "title": "Tuscany Bay",
+                "reviewsCount": 219,
+                "totalScore": 3.9
+            }
+        ],
+        "placesTags": [
+            {
+                "title": "Services",
+                "count": 1
+            },
+            {
+                "title": "Other",
+                "count": 2
+            }
+        ],
+        "reviewsTags": [
+            {
+                "title": "termites",
+                "count": 17
+            },
+            {
+                "title": "roaches",
+                "count": 14
+            },
+            {
+                "title": "deposit",
+                "count": 10
+            },
+            {
+                "title": "car",
+                "count": 10
+            },
+            {
+                "title": "june",
+                "count": 7
+            },
+            {
+                "title": "renovations",
+                "count": 7
+            },
+            {
+                "title": "ducks",
+                "count": 6
+            },
+            {
+                "title": "pest control",
+                "count": 5
+            },
+            {
+                "title": "gate",
+                "count": 5
+            },
+            {
+                "title": "patio",
+                "count": 5
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ],
+            "Crowd": [
+                {
+                    "LGBTQ+ friendly": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Tuscany%20Pointe%20at%20Tampa%20Apartment%20Homes&query_place_id=ChIJuRb4k93DwogRVzOJHbz-feQ",
+        "webResults": [],
+        "orderBy": [
+            {
+                "name": "betterbot.ai",
+                "url": "https://betterbot.ai/i/vf8w?utm_source=BetterBot&utm_medium=Google&utm_campaign=Tuscany+Pointe+at+Tampa+BetterBot"
+            }
+        ],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 6,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@27.988359777615862,-82.50135190643701,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@27.9883598,-82.5013519,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Mariposa Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment building",
+        "address": "5126 N Habana Ave, Tampa, FL 33614",
+        "neighborhood": "Northwest Tampa",
+        "street": "5126 N Habana Ave",
+        "city": "Tampa",
+        "postalCode": "33614",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": null,
+        "phone": "(813) 871-5300",
+        "phoneUnformatted": "+18138715300",
+        "claimThisBusiness": true,
+        "location": {
+            "lat": 27.9942893,
+            "lng": -82.4887906
+        },
+        "locatedIn": null,
+        "plusCode": "XGV6+PF Tampa, Florida",
+        "menu": null,
+        "totalScore": 4.7,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJjT63e-TDwogR7xok7-aHAkg",
+        "categories": [
+            "Apartment building"
+        ],
+        "cid": "5188859146608581359",
+        "reviewsCount": 7,
+        "reviewsDistribution": {
+            "oneStar": 0,
+            "twoStar": 0,
+            "threeStar": 0,
+            "fourStar": 2,
+            "fiveStar": 5
+        },
+        "imagesCount": 1,
+        "imageCategories": [
+            "All",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:45:28.131Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Lake Pointe Apartments",
+                "reviewsCount": 65,
+                "totalScore": 4
+            },
+            {
+                "category": "People also search for",
+                "title": "Mar Plaza Apartments",
+                "reviewsCount": 8,
+                "totalScore": 3.8
+            },
+            {
+                "category": "People also search for",
+                "title": "Marquis Rental Apartments",
+                "reviewsCount": 66,
+                "totalScore": 2.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Silver Lake Apartments",
+                "reviewsCount": 22,
+                "totalScore": 3.9
+            },
+            {
+                "category": "People also search for",
+                "title": "Belmont Heights Estates II",
+                "reviewsCount": 11,
+                "totalScore": 2.9
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Mariposa%20Apartments&query_place_id=ChIJjT63e-TDwogR7xok7-aHAkg",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 3,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@27.988359777615862,-82.50135190643701,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@27.9883598,-82.5013519,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "The Ava Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment complex",
+        "address": "4902 N Mac Dill Ave, Tampa, FL 33614",
+        "neighborhood": "Northwest Tampa",
+        "street": "4902 N Mac Dill Ave",
+        "city": "Tampa",
+        "postalCode": "33614",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "http://www.myavaapartments.com/",
+        "phone": "(813) 807-4336",
+        "phoneUnformatted": "+18138074336",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9912104,
+            "lng": -82.4944026
+        },
+        "locatedIn": null,
+        "plusCode": "XGR4+F6 Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.3,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJp-49tufDwogRKAEd3WlUJcc",
+        "categories": [
+            "Apartment complex"
+        ],
+        "cid": "14349968601343918376",
+        "reviewsCount": 264,
+        "reviewsDistribution": {
+            "oneStar": 73,
+            "twoStar": 12,
+            "threeStar": 41,
+            "fourStar": 31,
+            "fiveStar": 107
+        },
+        "imagesCount": 219,
+        "imageCategories": [
+            "All",
+            "Rooms",
+            "Videos",
+            "Exterior",
+            "Amenities",
+            "Apartment",
+            "From visitors",
+            "By owner",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:45:28.628Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "9 AM to 5:30 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "9 AM to 5:30 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "9 AM to 5:30 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "9 AM to 5:30 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "9 AM to 5:30 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "10 AM to 2 PM"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Fernwood Grove Apartments",
+                "reviewsCount": 119,
+                "totalScore": 3.7
+            },
+            {
+                "category": "People also search for",
+                "title": "MAA Carrollwood",
+                "reviewsCount": 94,
+                "totalScore": 4.2
+            },
+            {
+                "category": "People also search for",
+                "title": "The Commons",
+                "reviewsCount": 215,
+                "totalScore": 4
+            },
+            {
+                "category": "People also search for",
+                "title": "Park View Apartments",
+                "reviewsCount": 1,
+                "totalScore": 5
+            },
+            {
+                "category": "People also search for",
+                "title": "The Avenue Apartments",
+                "reviewsCount": 176,
+                "totalScore": 4.1
+            }
+        ],
+        "placesTags": [
+            {
+                "title": "Shopping",
+                "count": 1
+            },
+            {
+                "title": "Services",
+                "count": 2
+            },
+            {
+                "title": "Other",
+                "count": 1
+            }
+        ],
+        "reviewsTags": [
+            {
+                "title": "rent",
+                "count": 26
+            },
+            {
+                "title": "renovated",
+                "count": 10
+            },
+            {
+                "title": "fee",
+                "count": 9
+            },
+            {
+                "title": "door",
+                "count": 9
+            },
+            {
+                "title": "bedroom",
+                "count": 9
+            },
+            {
+                "title": "roaches",
+                "count": 8
+            },
+            {
+                "title": "phone",
+                "count": 7
+            },
+            {
+                "title": "clothes",
+                "count": 6
+            },
+            {
+                "title": "laundry",
+                "count": 6
+            },
+            {
+                "title": "pest control",
+                "count": 6
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": {
+            "question": "Do they accept hud vash\n",
+            "answer": "Please contact office for more information. 813-875-7598",
+            "askDate": "5 years ago",
+            "askedBy": {
+                "name": "owl tune",
+                "url": "https://www.google.com/maps/contrib/104825459435351797921"
+            },
+            "answerDate": "4 years ago",
+            "answeredBy": {}
+        },
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=The%20Ava%20Apartments&query_place_id=ChIJp-49tufDwogRKAEd3WlUJcc",
+        "webResults": [],
+        "orderBy": [
+            {
+                "name": "myavaapartments.com",
+                "url": "https://www.myavaapartments.com/tampa/the-ava-apartments-llc/guest-card/contact-us/1/"
+            }
+        ],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 20,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Fernwood Grove Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Property management company",
+        "address": "4900 N Mac Dill Ave, Tampa, FL 33614",
+        "neighborhood": "Northwest Tampa",
+        "street": "4900 N Mac Dill Ave",
+        "city": "Tampa",
+        "postalCode": "33614",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "https://www.fernwoodtampa.com/?utm_source=GBP&utm_medium=Organic",
+        "phone": "(813) 874-1658",
+        "phoneUnformatted": "+18138741658",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9903079,
+            "lng": -82.4934207
+        },
+        "locatedIn": null,
+        "plusCode": "XGR4+4J Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.7,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJq4dIOubDwogR7UFfDLCbojA",
+        "categories": [
+            "Property management company",
+            "Apartment complex",
+            "Apartment rental agency"
+        ],
+        "cid": "3504534640471785965",
+        "reviewsCount": 119,
+        "reviewsDistribution": {
+            "oneStar": 24,
+            "twoStar": 9,
+            "threeStar": 8,
+            "fourStar": 12,
+            "fiveStar": 66
+        },
+        "imagesCount": 62,
+        "imageCategories": [
+            "All",
+            "Latest",
+            "Videos",
+            "Inside",
+            "Interior design",
+            "By owner",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:45:29.181Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "10 AM to 5 PM"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Mariposa Apartments",
+                "reviewsCount": 7,
+                "totalScore": 4.7
+            },
+            {
+                "category": "People also search for",
+                "title": "The Ava Apartments",
+                "reviewsCount": 264,
+                "totalScore": 3.3
+            },
+            {
+                "category": "People also search for",
+                "title": "Windwood Oaks Apartments",
+                "reviewsCount": 131,
+                "totalScore": 3.4
+            },
+            {
+                "category": "People also search for",
+                "title": "The Commons",
+                "reviewsCount": 215,
+                "totalScore": 4
+            },
+            {
+                "category": "People also search for",
+                "title": "Milana Reserve Apartment Homes",
+                "reviewsCount": 177,
+                "totalScore": 4.1
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [
+            {
+                "title": "office",
+                "count": 20
+            },
+            {
+                "title": "lease",
+                "count": 19
+            },
+            {
+                "title": "pay",
+                "count": 13
+            },
+            {
+                "title": "pool",
+                "count": 9
+            },
+            {
+                "title": "gate",
+                "count": 6
+            },
+            {
+                "title": "noise",
+                "count": 6
+            },
+            {
+                "title": "roaches",
+                "count": 5
+            },
+            {
+                "title": "hallways",
+                "count": 5
+            },
+            {
+                "title": "light",
+                "count": 5
+            },
+            {
+                "title": "fees",
+                "count": 5
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Fernwood%20Grove%20Apartments&query_place_id=ChIJq4dIOubDwogR7UFfDLCbojA",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 19,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Park Place Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment complex",
+        "address": "3132 W Lambright St, Tampa, FL 33614",
+        "neighborhood": null,
+        "street": "3132 W Lambright St",
+        "city": "Tampa",
+        "postalCode": "33614",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "http://www.parkplacetampa.com/",
+        "phone": "(813) 935-8953",
+        "phoneUnformatted": "+18139358953",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 28.0062751,
+            "lng": -82.4963531
+        },
+        "locatedIn": null,
+        "plusCode": "2G43+GF Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.8,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJjx9rI17BwogRVR25n7ivAkI",
+        "categories": [
+            "Apartment complex"
+        ],
+        "cid": "4756557363945217365",
+        "reviewsCount": 54,
+        "reviewsDistribution": {
+            "oneStar": 13,
+            "twoStar": 1,
+            "threeStar": 1,
+            "fourStar": 6,
+            "fiveStar": 33
+        },
+        "imagesCount": 19,
+        "imageCategories": [
+            "All",
+            "Rooms",
+            "Exterior",
+            "Amenities",
+            "Kitchen",
+            "Apartment",
+            "From visitors",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:45:39.330Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "10 AM to 3 PM"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Park Place at Tampa",
+                "reviewsCount": 81,
+                "totalScore": 3.3
+            },
+            {
+                "category": "People also search for",
+                "title": "Park Pointe Apartments",
+                "reviewsCount": 88,
+                "totalScore": 3.1
+            },
+            {
+                "category": "People also search for",
+                "title": "The Park on Waters",
+                "reviewsCount": 102,
+                "totalScore": 2.9
+            },
+            {
+                "category": "People also search for",
+                "title": "Boardwalk Apartments",
+                "reviewsCount": 45,
+                "totalScore": 3.2
+            },
+            {
+                "category": "People also search for",
+                "title": "Coopers Pond Apartments",
+                "reviewsCount": 231,
+                "totalScore": 3.3
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [
+            {
+                "title": "leasing",
+                "count": 8
+            },
+            {
+                "title": "community",
+                "count": 7
+            },
+            {
+                "title": "clean",
+                "count": 5
+            },
+            {
+                "title": "price",
+                "count": 5
+            },
+            {
+                "title": "team",
+                "count": 3
+            },
+            {
+                "title": "room",
+                "count": 3
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": {
+            "question": "Do u take section 8?",
+            "answer": "Yeah",
+            "askDate": "4 years ago",
+            "askedBy": {
+                "name": "GINA HAYES",
+                "url": "https://www.google.com/maps/contrib/112125045810343917415"
+            },
+            "answerDate": "4 years ago",
+            "answeredBy": {
+                "name": "Zoe Romero",
+                "url": "https://www.google.com/maps/contrib/114909534296942438499"
+            }
+        },
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Park%20Place%20Apartments&query_place_id=ChIJjx9rI17BwogRVR25n7ivAkI",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 17,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "The Flats at Seminole Heights",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Property management company",
+        "address": "4111 N Poplar Ave, Tampa, FL 33603",
+        "neighborhood": "South Seminole Heights",
+        "street": "4111 N Poplar Ave",
+        "city": "Tampa",
+        "postalCode": "33603",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "https://www.flatsatseminoleheights.com/?utm_source=GBP&utm_medium=Organic",
+        "phone": "(813) 234-8981",
+        "phoneUnformatted": "+18132348981",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9826857,
+            "lng": -82.4713534
+        },
+        "locatedIn": null,
+        "plusCode": "XGMH+3F Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.5,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJpb57ZgnEwogR_yNjJQ9bCXU",
+        "categories": [
+            "Property management company",
+            "Apartment complex",
+            "Apartment rental agency"
+        ],
+        "cid": "8433371897837855743",
+        "reviewsCount": 147,
+        "reviewsDistribution": {
+            "oneStar": 36,
+            "twoStar": 10,
+            "threeStar": 13,
+            "fourStar": 19,
+            "fiveStar": 69
+        },
+        "imagesCount": 99,
+        "imageCategories": [
+            "All",
+            "Exterior",
+            "Videos",
+            "Inside",
+            "Interior design",
+            "By owner",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:45:42.260Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "9 AM to 5 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "10 AM to 5 PM"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Seminole Heights Apartments",
+                "reviewsCount": 0,
+                "totalScore": 0
+            },
+            {
+                "category": "People also search for",
+                "title": "River Place Apartments",
+                "reviewsCount": 24,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "The Pearl Apartments",
+                "reviewsCount": 217,
+                "totalScore": 4.4
+            },
+            {
+                "category": "People also search for",
+                "title": "Urban Heights",
+                "reviewsCount": 4,
+                "totalScore": 2.5
+            },
+            {
+                "category": "People also search for",
+                "title": "Avenue Lofts",
+                "reviewsCount": 24,
+                "totalScore": 3.3
+            }
+        ],
+        "placesTags": [
+            {
+                "title": "Shopping",
+                "count": 1
+            }
+        ],
+        "reviewsTags": [
+            {
+                "title": "apartment",
+                "count": 44
+            },
+            {
+                "title": "lease",
+                "count": 20
+            },
+            {
+                "title": "maintenance",
+                "count": 13
+            },
+            {
+                "title": "amenities",
+                "count": 10
+            },
+            {
+                "title": "gym",
+                "count": 8
+            },
+            {
+                "title": "roaches",
+                "count": 7
+            },
+            {
+                "title": "termites",
+                "count": 7
+            },
+            {
+                "title": "pay",
+                "count": 6
+            },
+            {
+                "title": "roommate",
+                "count": 5
+            },
+            {
+                "title": "renovations",
+                "count": 5
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=The%20Flats%20at%20Seminole%20Heights&query_place_id=ChIJpb57ZgnEwogR_yNjJQ9bCXU",
+        "webResults": [],
+        "orderBy": [
+            {
+                "name": "flatsatseminoleheights.com",
+                "url": "https://www.flatsatseminoleheights.com/contactus?utm_source=GMB&utm_medium=organic"
+            }
+        ],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 15,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "River Place Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment building",
+        "address": "4018 N Riverside Dr, Tampa, FL 33603",
+        "neighborhood": "South Seminole Heights",
+        "street": "4018 N Riverside Dr",
+        "city": "Tampa",
+        "postalCode": "33603",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": null,
+        "phone": "(813) 237-3984",
+        "phoneUnformatted": "+18132373984",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.983326,
+            "lng": -82.472718
+        },
+        "locatedIn": null,
+        "plusCode": "XGMG+8W Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.6,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJ_RiynQnEwogRjt1h7pLOtas",
+        "categories": [
+            "Apartment building",
+            "Apartment complex"
+        ],
+        "cid": "12373022681730243982",
+        "reviewsCount": 24,
+        "reviewsDistribution": {
+            "oneStar": 7,
+            "twoStar": 1,
+            "threeStar": 0,
+            "fourStar": 3,
+            "fiveStar": 13
+        },
+        "imagesCount": 8,
+        "imageCategories": [
+            "All",
+            "Exterior",
+            "Amenities",
+            "Apartment",
+            "From visitors",
+            "By owner",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:45:45.985Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "8:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "8:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "8:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "8:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "8:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "Closed"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "The Flats at Seminole Heights",
+                "reviewsCount": 146,
+                "totalScore": 3.5
+            },
+            {
+                "category": "People also search for",
+                "title": "Riverfront Apartments",
+                "reviewsCount": 21,
+                "totalScore": 2.8
+            },
+            {
+                "category": "People also search for",
+                "title": "Riverside Palms Apartments",
+                "reviewsCount": 292,
+                "totalScore": 3.5
+            },
+            {
+                "category": "People also search for",
+                "title": "River View Apartments Tampa",
+                "reviewsCount": 146,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Apartments At River Oaks",
+                "reviewsCount": 64,
+                "totalScore": 2
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [
+            {
+                "title": "management",
+                "count": 3
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": {
+            "text": "This is a view from my patio and view of everyday ... very nice and professional team that works here...",
+            "language": "en",
+            "postDate": "a year ago",
+            "postedBy": {
+                "name": "Rhonda Vega",
+                "url": "https://www.google.com/maps/contrib/114684735566380075246?hl=en-US",
+                "title": "15 reviews",
+                "totalReviews": null
+            },
+            "media": []
+        },
+        "url": "https://www.google.com/maps/search/?api=1&query=River%20Place%20Apartments&query_place_id=ChIJ_RiynQnEwogRjt1h7pLOtas",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 16,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Legend Oaks Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment complex",
+        "address": "4714 N Habana Ave, Tampa, FL 33614",
+        "neighborhood": "Northwest Tampa",
+        "street": "4714 N Habana Ave",
+        "city": "Tampa",
+        "postalCode": "33614",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "https://www.robbinspropertyllc.com/apartments/fl/tampa/legend-oaks?utm_campaign=gmb&utm_medium=organic&utm_source=local",
+        "phone": "(813) 945-4241",
+        "phoneUnformatted": "+18139454241",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9868246,
+            "lng": -82.490215
+        },
+        "locatedIn": null,
+        "plusCode": "XGP5+PW Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.6,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJowMOMO_DwogR5GJUHzkmrZs",
+        "categories": [
+            "Apartment complex"
+        ],
+        "cid": "11217664273630388964",
+        "reviewsCount": 178,
+        "reviewsDistribution": {
+            "oneStar": 37,
+            "twoStar": 15,
+            "threeStar": 19,
+            "fourStar": 23,
+            "fiveStar": 84
+        },
+        "imagesCount": 41,
+        "imageCategories": [
+            "All",
+            "Rooms",
+            "Exterior",
+            "Amenities",
+            "Food & drink",
+            "Apartment",
+            "From visitors",
+            "By owner",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:45:46.632Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "9 AM to 6 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "10 AM to 5 PM"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "The Oaks of Woodland Park Apartments",
+                "reviewsCount": 258,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Villas of Legends Field",
+                "reviewsCount": 36,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Legacy",
+                "reviewsCount": 119,
+                "totalScore": 3.8
+            },
+            {
+                "category": "People also search for",
+                "title": "Courtney Cove Apartment Homes",
+                "reviewsCount": 203,
+                "totalScore": 3.2
+            },
+            {
+                "category": "People also search for",
+                "title": "Grand Oaks Apartments",
+                "reviewsCount": 33,
+                "totalScore": 3
+            }
+        ],
+        "placesTags": [
+            {
+                "title": "Shopping",
+                "count": 1
+            },
+            {
+                "title": "Health & Beauty",
+                "count": 2
+            },
+            {
+                "title": "Other",
+                "count": 1
+            }
+        ],
+        "reviewsTags": [
+            {
+                "title": "rent",
+                "count": 21
+            },
+            {
+                "title": "office",
+                "count": 14
+            },
+            {
+                "title": "mold",
+                "count": 11
+            },
+            {
+                "title": "pool",
+                "count": 11
+            },
+            {
+                "title": "property",
+                "count": 9
+            },
+            {
+                "title": "termites",
+                "count": 8
+            },
+            {
+                "title": "gate",
+                "count": 8
+            },
+            {
+                "title": "money",
+                "count": 8
+            },
+            {
+                "title": "unit",
+                "count": 7
+            },
+            {
+                "title": "call",
+                "count": 6
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Legend%20Oaks%20Apartments&query_place_id=ChIJowMOMO_DwogR5GJUHzkmrZs",
+        "webResults": [],
+        "orderBy": [
+            {
+                "name": "knockrentals.com",
+                "url": "https://knockrentals.com/community/06111ed08807d969?utm_knock=g"
+            }
+        ],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 14,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Riverfront Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment complex",
+        "address": "5305 N Blvd, Tampa, FL 33603",
+        "neighborhood": "Wellswood",
+        "street": "5305 N Blvd",
+        "city": "Tampa",
+        "postalCode": "33603",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": null,
+        "phone": "(813) 505-1121",
+        "phoneUnformatted": "+18135051121",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9956952,
+            "lng": -82.4669832
+        },
+        "locatedIn": null,
+        "plusCode": "XGWM+76 Tampa, Florida",
+        "menu": null,
+        "totalScore": 2.8,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJrSwrCQPEwogRiau4gmWBLeU",
+        "categories": [
+            "Apartment complex",
+            "Apartments"
+        ],
+        "cid": "16513997681622297481",
+        "reviewsCount": 21,
+        "reviewsDistribution": {
+            "oneStar": 10,
+            "twoStar": 1,
+            "threeStar": 1,
+            "fourStar": 1,
+            "fiveStar": 8
+        },
+        "imagesCount": 19,
+        "imageCategories": [
+            "All",
+            "Rooms",
+            "Exterior",
+            "Amenities",
+            "Kitchen",
+            "Apartment",
+            "From visitors",
+            "By owner",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:45:53.639Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "River Place Apartments",
+                "reviewsCount": 24,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Avenue Lofts",
+                "reviewsCount": 24,
+                "totalScore": 3.3
+            },
+            {
+                "category": "People also search for",
+                "title": "River View Apartments Tampa",
+                "reviewsCount": 146,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "The River Pointe Apartments",
+                "reviewsCount": 116,
+                "totalScore": 3.1
+            },
+            {
+                "category": "People also search for",
+                "title": "The Falls of Tampa Bay Apartments",
+                "reviewsCount": 24,
+                "totalScore": 2.1
+            }
+        ],
+        "placesTags": [
+            {
+                "title": "Services",
+                "count": 2
+            }
+        ],
+        "reviewsTags": [
+            {
+                "title": "price",
+                "count": 3
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Riverfront%20Apartments&query_place_id=ChIJrSwrCQPEwogRiau4gmWBLeU",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 12,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Squire Villa",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment building",
+        "address": "5918 N Rome Ave, Tampa, FL 33604",
+        "neighborhood": "Northwest Tampa",
+        "street": "5918 N Rome Ave",
+        "city": "Tampa",
+        "postalCode": "33604",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": null,
+        "phone": null,
+        "phoneUnformatted": null,
+        "claimThisBusiness": true,
+        "location": {
+            "lat": 28.0015533,
+            "lng": -82.4765056
+        },
+        "locatedIn": null,
+        "plusCode": "2G2F+J9 Tampa, Florida",
+        "menu": null,
+        "totalScore": 5,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJpUWSP1XBwogR0HHXpJ4ZBtA",
+        "categories": [
+            "Apartment building"
+        ],
+        "cid": "14989696578910384592",
+        "reviewsCount": 2,
+        "reviewsDistribution": {
+            "oneStar": 0,
+            "twoStar": 0,
+            "threeStar": 0,
+            "fourStar": 0,
+            "fiveStar": 2
+        },
+        "imagesCount": 1,
+        "imageCategories": [
+            "All",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:45:55.472Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Las Villas",
+                "reviewsCount": 2,
+                "totalScore": 3
+            },
+            {
+                "category": "People also search for",
+                "title": "Sweetwater Villas Apartments",
+                "reviewsCount": 50,
+                "totalScore": 3.9
+            },
+            {
+                "category": "People also search for",
+                "title": "Aqua",
+                "reviewsCount": 22,
+                "totalScore": 4.2
+            },
+            {
+                "category": "People also search for",
+                "title": "Hunter Oaks Apartments",
+                "reviewsCount": 20,
+                "totalScore": 3.8
+            },
+            {
+                "category": "People also search for",
+                "title": "Melrose at Waters Apartments",
+                "reviewsCount": 23,
+                "totalScore": 2
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": {
+            "question": "(Translated by Google) Does anyone have a number to call to inquire about the apartments?\n\n(Original)\nAlguien tiene un número para llamar a consultar por los apartamentos ",
+            "answer": "(Translated by Google) ➡️Further info WA is active 24 hours ⏬\n📳 { Oꖉℨꖉ ЧꖉЧ6 lꖉℨ6 }\nFor ordering information, please contact the owner's WhatsApp\n\n(Original)\n➡️info lebih lanjut WA aktif 24jm ⏬\n📳 { Oꖉℨꖉ ЧꖉЧ6 lꖉℨ6 }\ninformasi pemesanan silahkan hubungi WhatsApp pemilik",
+            "askDate": "11 months ago",
+            "askedBy": {
+                "name": "briyit alexandra ramos escate",
+                "url": "https://www.google.com/maps/contrib/105913931681509866329"
+            },
+            "answerDate": "6 months ago",
+            "answeredBy": {
+                "name": "AKUN PEMILIK",
+                "url": "https://www.google.com/maps/contrib/112481479835470642549"
+            }
+        },
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Squire%20Villa&query_place_id=ChIJpUWSP1XBwogR0HHXpJ4ZBtA",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 11,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Seminole Heights Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment building",
+        "address": "5310 N Central Ave, Tampa, FL 33603",
+        "neighborhood": "Old Seminole Heights",
+        "street": "5310 N Central Ave",
+        "city": "Tampa",
+        "postalCode": "33603",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": null,
+        "phone": "(813) 234-3079",
+        "phoneUnformatted": "+18132343079",
+        "claimThisBusiness": true,
+        "location": {
+            "lat": 27.995914,
+            "lng": -82.4555707
+        },
+        "locatedIn": null,
+        "plusCode": "XGWV+9Q Tampa, Florida",
+        "menu": null,
+        "totalScore": null,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJHQM8CB_EwogRYaSnHKXyLoI",
+        "categories": [
+            "Apartment building"
+        ],
+        "cid": "9380701864823596129",
+        "reviewsCount": 0,
+        "reviewsDistribution": {
+            "oneStar": 0,
+            "twoStar": 0,
+            "threeStar": 0,
+            "fourStar": 0,
+            "fiveStar": 0
+        },
+        "imagesCount": 1,
+        "imageCategories": [
+            "All",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:46:02.506Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Urban Heights",
+                "reviewsCount": 4,
+                "totalScore": 2.5
+            },
+            {
+                "category": "People also search for",
+                "title": "The Flats at Seminole Heights",
+                "reviewsCount": 146,
+                "totalScore": 3.5
+            },
+            {
+                "category": "People also search for",
+                "title": "Court View Apartments",
+                "reviewsCount": 2,
+                "totalScore": 3
+            },
+            {
+                "category": "People also search for",
+                "title": "Central Court Apartments",
+                "reviewsCount": 19,
+                "totalScore": 1.8
+            },
+            {
+                "category": "People also search for",
+                "title": "Tampa Heights Apartments",
+                "reviewsCount": 9,
+                "totalScore": 3.6
+            }
+        ],
+        "placesTags": [
+            {
+                "title": "Services",
+                "count": 1
+            }
+        ],
+        "reviewsTags": [],
+        "additionalInfo": {},
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Seminole%20Heights%20Apartments&query_place_id=ChIJHQM8CB_EwogRYaSnHKXyLoI",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 9,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Dauphine Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment building",
+        "address": "2515 W Frierson Ave, Tampa, FL 33614",
+        "neighborhood": "Northwest Tampa",
+        "street": "2515 W Frierson Ave",
+        "city": "Tampa",
+        "postalCode": "33614",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "https://wiscoproperties.com/",
+        "phone": "(813) 872-6857",
+        "phoneUnformatted": "+18138726857",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9946576,
+            "lng": -82.4846637
+        },
+        "locatedIn": null,
+        "plusCode": "XGV8+V4 Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.5,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJtWQgqPzDwogR4t42AjOpyZQ",
+        "categories": [
+            "Apartment building"
+        ],
+        "cid": "10721286424477753058",
+        "reviewsCount": 18,
+        "reviewsDistribution": {
+            "oneStar": 6,
+            "twoStar": 0,
+            "threeStar": 0,
+            "fourStar": 3,
+            "fiveStar": 9
+        },
+        "imagesCount": 4,
+        "imageCategories": [
+            "All",
+            "Exterior",
+            "From visitors"
+        ],
+        "scrapedAt": "2024-02-22T19:46:10.649Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "8 AM to 6 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "8 AM to 6 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "8 AM to 6 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "8 AM to 6 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "8 AM to 6 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "10 AM to 4 PM"
+            },
+            {
+                "day": "Sunday",
+                "hours": "10 AM to 2 PM"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Pinetree Apartments",
+                "reviewsCount": 104,
+                "totalScore": 3.8
+            },
+            {
+                "category": "People also search for",
+                "title": "French Quarter Apartment Homes",
+                "reviewsCount": 29,
+                "totalScore": 3.3
+            },
+            {
+                "category": "People also search for",
+                "title": "Haven Waters Edge Apartments",
+                "reviewsCount": 437,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Shadow Pines Apartments",
+                "reviewsCount": 39,
+                "totalScore": 3.8
+            },
+            {
+                "category": "People also search for",
+                "title": "Beach Club Apartment Homes",
+                "reviewsCount": 252,
+                "totalScore": 4.6
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [
+            {
+                "title": "gate",
+                "count": 4
+            },
+            {
+                "title": "pools",
+                "count": 4
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Dauphine%20Apartments&query_place_id=ChIJtWQgqPzDwogR4t42AjOpyZQ",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 8,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Marquis Rental Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment building",
+        "address": "2609 Gemini Ct, Tampa, FL 33614",
+        "neighborhood": null,
+        "street": "2609 Gemini Ct",
+        "city": "Tampa",
+        "postalCode": "33614",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "http://marquisrentalapartments.com/",
+        "phone": "(813) 879-5491",
+        "phoneUnformatted": "+18138795491",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 28.0023996,
+            "lng": -82.4864437
+        },
+        "locatedIn": null,
+        "plusCode": "2G27+XC Tampa, Florida",
+        "menu": null,
+        "totalScore": 2.6,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJSZ2omVfBwogRM-Snum-vUB8",
+        "categories": [
+            "Apartment building"
+        ],
+        "cid": "2256496307720414259",
+        "reviewsCount": 66,
+        "reviewsDistribution": {
+            "oneStar": 35,
+            "twoStar": 3,
+            "threeStar": 3,
+            "fourStar": 2,
+            "fiveStar": 23
+        },
+        "imagesCount": 68,
+        "imageCategories": [
+            "All",
+            "Latest",
+            "Videos",
+            "Exterior",
+            "Amenities",
+            "From visitors",
+            "By owner"
+        ],
+        "scrapedAt": "2024-02-22T19:46:18.029Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "8:30 AM to 5 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "8:30 AM to 5 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "8:30 AM to 5 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "8:30 AM to 5 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "8:30 AM to 5 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "Closed"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Mariposa Apartments",
+                "reviewsCount": 7,
+                "totalScore": 4.7
+            },
+            {
+                "category": "People also search for",
+                "title": "Park View Apartments",
+                "reviewsCount": 1,
+                "totalScore": 5
+            },
+            {
+                "category": "People also search for",
+                "title": "The Marquis of Tampa",
+                "reviewsCount": 152,
+                "totalScore": 3.7
+            },
+            {
+                "category": "People also search for",
+                "title": "Park Pointe Apartments",
+                "reviewsCount": 88,
+                "totalScore": 3.1
+            },
+            {
+                "category": "People also search for",
+                "title": "Royalty Court Apartments",
+                "reviewsCount": 35,
+                "totalScore": 3.5
+            }
+        ],
+        "placesTags": [
+            {
+                "title": "Other",
+                "count": 1
+            }
+        ],
+        "reviewsTags": [
+            {
+                "title": "maintenance",
+                "count": 13
+            },
+            {
+                "title": "management",
+                "count": 13
+            },
+            {
+                "title": "pool",
+                "count": 6
+            },
+            {
+                "title": "office",
+                "count": 6
+            },
+            {
+                "title": "toilet",
+                "count": 5
+            },
+            {
+                "title": "air conditioning",
+                "count": 5
+            },
+            {
+                "title": "mold",
+                "count": 4
+            },
+            {
+                "title": "roaches",
+                "count": 4
+            },
+            {
+                "title": "smell",
+                "count": 3
+            },
+            {
+                "title": "animal",
+                "count": 3
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": {
+            "question": "(Translated by Google) What time will the pool be open? I've been there 3 times and it's not open.\n\n(Original)\nA q hora habren la piscina  he ido 3 veces y no está  abierta",
+            "answer": "The pool is closed until further notice. The rope separator was broken and full rules have been abused. Closed until further notice.",
+            "askDate": "7 months ago",
+            "askedBy": {
+                "name": "says rojas",
+                "url": "https://www.google.com/maps/contrib/112335567799912865687"
+            },
+            "answerDate": "7 months ago",
+            "answeredBy": {
+                "name": "Tanya O",
+                "url": "https://www.google.com/maps/contrib/101429510672368633441"
+            }
+        },
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Marquis%20Rental%20Apartments&query_place_id=ChIJSZ2omVfBwogRM-Snum-vUB8",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 7,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Avenue Lofts",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment building",
+        "address": "5236 N Florida Ave, Tampa, FL 33603",
+        "neighborhood": "South Seminole Heights",
+        "street": "5236 N Florida Ave",
+        "city": "Tampa",
+        "postalCode": "33603",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "http://avenueloftstampa.com/",
+        "phone": "(813) 443-5160",
+        "phoneUnformatted": "+18134435160",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9948953,
+            "lng": -82.4597506
+        },
+        "locatedIn": null,
+        "plusCode": "XGVR+X3 Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.3,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJRzTakoHFwogRuRxNoHJuNlA",
+        "categories": [
+            "Apartment building"
+        ],
+        "cid": "5779928610371345593",
+        "reviewsCount": 24,
+        "reviewsDistribution": {
+            "oneStar": 8,
+            "twoStar": 1,
+            "threeStar": 2,
+            "fourStar": 1,
+            "fiveStar": 12
+        },
+        "imagesCount": 21,
+        "imageCategories": [
+            "All",
+            "Rooms",
+            "Exterior",
+            "Apartment",
+            "From visitors",
+            "By owner",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:46:20.632Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "10 AM to 3 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "10 AM to 3 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "10 AM to 3 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "10 AM to 3 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "10 AM to 3 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "Closed"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "The Warehouse Lofts",
+                "reviewsCount": 46,
+                "totalScore": 3.3
+            },
+            {
+                "category": "People also search for",
+                "title": "The Ybor Lofts",
+                "reviewsCount": 117,
+                "totalScore": 4.4
+            },
+            {
+                "category": "People also search for",
+                "title": "The Vintage Lofts at West End",
+                "reviewsCount": 165,
+                "totalScore": 3.2
+            },
+            {
+                "category": "People also search for",
+                "title": "4050 Lofts",
+                "reviewsCount": 1046,
+                "totalScore": 3.9
+            },
+            {
+                "category": "People also search for",
+                "title": "Sanctuary Lofts",
+                "reviewsCount": 15,
+                "totalScore": 4.2
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [
+            {
+                "title": "appliances",
+                "count": 5
+            },
+            {
+                "title": "management",
+                "count": 5
+            },
+            {
+                "title": "lease",
+                "count": 4
+            },
+            {
+                "title": "area",
+                "count": 4
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Avenue%20Lofts&query_place_id=ChIJRzTakoHFwogRuRxNoHJuNlA",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 5,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Riviera Manor",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment building",
+        "address": "6605 N Riviera Manor Dr, Tampa, FL 33604",
+        "neighborhood": "Northwest Tampa",
+        "street": "6605 N Riviera Manor Dr",
+        "city": "Tampa",
+        "postalCode": "33604",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "http://0.69.62.151/",
+        "phone": "(813) 443-5065",
+        "phoneUnformatted": "+18134435065",
+        "claimThisBusiness": true,
+        "location": {
+            "lat": 28.0064723,
+            "lng": -82.4686333
+        },
+        "locatedIn": null,
+        "plusCode": "2G4J+HG Tampa, Florida",
+        "menu": null,
+        "totalScore": 3,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJnRMgwq7GwogR-9V4dhietmU",
+        "categories": [
+            "Apartment building",
+            "Apartments"
+        ],
+        "cid": "7329219271496095227",
+        "reviewsCount": 2,
+        "reviewsDistribution": {
+            "oneStar": 1,
+            "twoStar": 0,
+            "threeStar": 0,
+            "fourStar": 0,
+            "fiveStar": 1
+        },
+        "imagesCount": 1,
+        "imageCategories": [
+            "All",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:46:28.033Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Windsor Manor",
+                "reviewsCount": 42,
+                "totalScore": 2.5
+            },
+            {
+                "category": "People also search for",
+                "title": "Mariposa Apartments",
+                "reviewsCount": 7,
+                "totalScore": 4.7
+            },
+            {
+                "category": "People also search for",
+                "title": "Grove Park Manor Apartments",
+                "reviewsCount": 3,
+                "totalScore": 4.7
+            },
+            {
+                "category": "People also search for",
+                "title": "Cornerstone Apartments",
+                "reviewsCount": 2,
+                "totalScore": 3
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": {
+            "question": "Does it have a pool",
+            "answer": "Haven't seen pool don't think it has one.",
+            "askDate": "2 years ago",
+            "askedBy": {
+                "name": "Josephine Dormevil",
+                "url": "https://www.google.com/maps/contrib/102096832368523803483"
+            },
+            "answerDate": "2 years ago",
+            "answeredBy": {
+                "name": "Ronald williams",
+                "url": "https://www.google.com/maps/contrib/118383707028094282106"
+            }
+        },
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Riviera%20Manor&query_place_id=ChIJnRMgwq7GwogR-9V4dhietmU",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 4,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Janie B. Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment complex",
+        "address": "5305 N Blvd, Tampa, FL 33603",
+        "neighborhood": "Wellswood",
+        "street": "5305 N Blvd",
+        "city": "Tampa",
+        "postalCode": "33603",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "https://www.yourtampapropertymanagers.com/",
+        "phone": "(813) 553-3444",
+        "phoneUnformatted": "+18135533444",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9955508,
+            "lng": -82.4669821
+        },
+        "locatedIn": "Riverfront Apartments",
+        "plusCode": "XGWM+66 Tampa, Florida",
+        "menu": null,
+        "totalScore": 4.6,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJ5WdxotzFwogRzoOpmotU2rY",
+        "categories": [
+            "Apartment complex",
+            "Condominium complex",
+            "Townhouse complex"
+        ],
+        "cid": "13175936618397795278",
+        "reviewsCount": 10,
+        "reviewsDistribution": {
+            "oneStar": 0,
+            "twoStar": 0,
+            "threeStar": 1,
+            "fourStar": 2,
+            "fiveStar": 7
+        },
+        "imagesCount": 8,
+        "imageCategories": [
+            "All",
+            "Rooms",
+            "Exterior",
+            "Kitchen",
+            "By owner",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:46:28.944Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "5:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "5:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "5:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "5:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "5:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "Closed"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Legacy",
+                "reviewsCount": 119,
+                "totalScore": 3.8
+            },
+            {
+                "category": "People also search for",
+                "title": "Marquis Rental Apartments",
+                "reviewsCount": 66,
+                "totalScore": 2.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Urban Heights",
+                "reviewsCount": 4,
+                "totalScore": 2.5
+            },
+            {
+                "category": "People also search for",
+                "title": "Magnolia Apartments B",
+                "reviewsCount": 0,
+                "totalScore": 0
+            },
+            {
+                "category": "People also search for",
+                "title": "French Quarter Apartment Homes",
+                "reviewsCount": 29,
+                "totalScore": 3.3
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Janie%20B.%20Apartments&query_place_id=ChIJ5WdxotzFwogRzoOpmotU2rY",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 3,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Legacy",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment complex",
+        "address": "5205 N Blvd, Tampa, FL 33603",
+        "neighborhood": "Wellswood",
+        "street": "5205 N Blvd",
+        "city": "Tampa",
+        "postalCode": "33603",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "https://www.thelegacyapts.com/?rcstdid=Mg%3D%3D-YRjTEizZPgM%3D",
+        "phone": "(813) 237-3749",
+        "phoneUnformatted": "+18132373749",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 27.9938612,
+            "lng": -82.4661142
+        },
+        "locatedIn": null,
+        "plusCode": "XGVM+GH Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.8,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJieupjwPEwogR3uIWxKXU13U",
+        "categories": [
+            "Apartment complex",
+            "Apartment rental agency",
+            "Condominium rental agency"
+        ],
+        "cid": "8491489430854886110",
+        "reviewsCount": 119,
+        "reviewsDistribution": {
+            "oneStar": 28,
+            "twoStar": 2,
+            "threeStar": 5,
+            "fourStar": 20,
+            "fiveStar": 64
+        },
+        "imagesCount": 29,
+        "imageCategories": [
+            "All",
+            "Rooms",
+            "Exterior",
+            "Amenities",
+            "From visitors",
+            "By owner"
+        ],
+        "scrapedAt": "2024-02-22T19:46:34.630Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "8:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "8:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "8:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "8:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "8:30 AM to 5:30 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "10 AM to 5 PM"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Legacy Encore",
+                "reviewsCount": 126,
+                "totalScore": 3.8
+            },
+            {
+                "category": "People also search for",
+                "title": "Janie B. Apartments",
+                "reviewsCount": 10,
+                "totalScore": 4.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Legend Oaks Apartments",
+                "reviewsCount": 177,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Avenue Lofts",
+                "reviewsCount": 24,
+                "totalScore": 3.3
+            },
+            {
+                "category": "People also search for",
+                "title": "River Place Apartments",
+                "reviewsCount": 24,
+                "totalScore": 3.6
+            }
+        ],
+        "placesTags": [
+            {
+                "title": "Services",
+                "count": 2
+            },
+            {
+                "title": "Health & Beauty",
+                "count": 1
+            }
+        ],
+        "reviewsTags": [
+            {
+                "title": "management",
+                "count": 14
+            },
+            {
+                "title": "community",
+                "count": 12
+            },
+            {
+                "title": "rent",
+                "count": 11
+            },
+            {
+                "title": "maintenance",
+                "count": 9
+            },
+            {
+                "title": "property",
+                "count": 9
+            },
+            {
+                "title": "river",
+                "count": 8
+            },
+            {
+                "title": "pool",
+                "count": 7
+            },
+            {
+                "title": "roaches",
+                "count": 6
+            },
+            {
+                "title": "walls",
+                "count": 5
+            },
+            {
+                "title": "stars",
+                "count": 5
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ],
+            "Amenities": [
+                {
+                    "Gender-neutral restroom": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": {
+            "question": "What Co. or who manages this property?",
+            "answer": "Hello Grace.  The Legacy Apartments is managed by RAM Partners LLC.",
+            "askDate": "a year ago",
+            "askedBy": {
+                "name": "Grace Monsanto",
+                "url": "https://www.google.com/maps/contrib/116937148374130900704"
+            },
+            "answerDate": "10 months ago",
+            "answeredBy": {}
+        },
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Legacy&query_place_id=ChIJieupjwPEwogR3uIWxKXU13U",
+        "webResults": [],
+        "orderBy": [
+            {
+                "name": "thelegacyapts.com",
+                "url": "https://www.thelegacyapts.com/scheduletour?utm_source=GMB&utm_medium=organic"
+            }
+        ],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 1,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Hite Apartments",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment complex",
+        "address": "6006 N Florida Ave, Tampa, FL 33604",
+        "neighborhood": "Old Seminole Heights",
+        "street": "6006 N Florida Ave",
+        "city": "Tampa",
+        "postalCode": "33604",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": "http://www.thehiteandnotch.com/",
+        "phone": "(813) 210-8022",
+        "phoneUnformatted": "+18132108022",
+        "claimThisBusiness": false,
+        "location": {
+            "lat": 28.0017131,
+            "lng": -82.4596571
+        },
+        "locatedIn": null,
+        "plusCode": "2G2R+M4 Tampa, Florida",
+        "menu": null,
+        "totalScore": 4,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJWxpkEHLHwogRAPh0UqQZJ7w",
+        "categories": [
+            "Apartment complex"
+        ],
+        "cid": "13557833396770895872",
+        "reviewsCount": 1,
+        "reviewsDistribution": {
+            "oneStar": 0,
+            "twoStar": 0,
+            "threeStar": 0,
+            "fourStar": 1,
+            "fiveStar": 0
+        },
+        "imagesCount": 10,
+        "imageCategories": [
+            "All",
+            "Exterior",
+            "Apartment",
+            "By owner",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:46:40.030Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "Closed"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "9 AM to 5:30 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "Closed"
+            },
+            {
+                "day": "Thursday",
+                "hours": "9 AM to 5:30 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "Closed"
+            },
+            {
+                "day": "Saturday",
+                "hours": "Closed"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Urban Heights",
+                "reviewsCount": 4,
+                "totalScore": 2.5
+            },
+            {
+                "category": "People also search for",
+                "title": "The Warehouse Lofts",
+                "reviewsCount": 46,
+                "totalScore": 3.3
+            },
+            {
+                "category": "People also search for",
+                "title": "Seminole Heights Apartments",
+                "reviewsCount": 0,
+                "totalScore": 0
+            },
+            {
+                "category": "People also search for",
+                "title": "Avenue Lofts",
+                "reviewsCount": 24,
+                "totalScore": 3.3
+            },
+            {
+                "category": "People also search for",
+                "title": "Legacy",
+                "reviewsCount": 119,
+                "totalScore": 3.8
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Hite%20Apartments&query_place_id=ChIJWxpkEHLHwogRAPh0UqQZJ7w",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    },
+    {
+        "searchString": "apartments",
+        "rank": 2,
+        "searchPageUrl": "https://www.google.com/maps/search/apartments/@28.0035323117482,-82.46701828682467,16z?hl=en",
+        "searchPageLoadedUrl": "https://www.google.com/maps/search/apartments/@28.0035323,-82.4670183,16z?hl=en&entry=ttu",
+        "isAdvertisement": false,
+        "title": "Riverside Villas & Marina",
+        "subTitle": null,
+        "description": null,
+        "price": null,
+        "categoryName": "Apartment complex",
+        "address": "910 Alicia Ave #7a, Tampa, FL 33604",
+        "neighborhood": "Northwest Tampa",
+        "street": "910 Alicia Ave #7a",
+        "city": "Tampa",
+        "postalCode": "33604",
+        "state": "Florida",
+        "countryCode": "US",
+        "website": null,
+        "phone": "(813) 932-0413",
+        "phoneUnformatted": "+18139320413",
+        "claimThisBusiness": true,
+        "location": {
+            "lat": 28.0065994,
+            "lng": -82.4691619
+        },
+        "locatedIn": null,
+        "plusCode": "2G4J+J8 Tampa, Florida",
+        "menu": null,
+        "totalScore": 3.9,
+        "permanentlyClosed": false,
+        "temporarilyClosed": false,
+        "placeId": "ChIJPV4Qu67GwogR4X7KH-8Vmkk",
+        "categories": [
+            "Apartment complex",
+            "Villa"
+        ],
+        "cid": "5303575627956911841",
+        "reviewsCount": 21,
+        "reviewsDistribution": {
+            "oneStar": 4,
+            "twoStar": 0,
+            "threeStar": 2,
+            "fourStar": 4,
+            "fiveStar": 11
+        },
+        "imagesCount": 16,
+        "imageCategories": [
+            "All",
+            "Exterior",
+            "Videos",
+            "From visitors",
+            "Street View & 360°"
+        ],
+        "scrapedAt": "2024-02-22T19:46:40.047Z",
+        "reserveTableUrl": null,
+        "googleFoodUrl": null,
+        "hotelStars": null,
+        "hotelDescription": null,
+        "checkInDate": null,
+        "checkOutDate": null,
+        "similarHotelsNearby": null,
+        "hotelReviewSummary": null,
+        "hotelAds": [],
+        "openingHours": [
+            {
+                "day": "Monday",
+                "hours": "8 AM to 5 PM"
+            },
+            {
+                "day": "Tuesday",
+                "hours": "8 AM to 5 PM"
+            },
+            {
+                "day": "Wednesday",
+                "hours": "8 AM to 5 PM"
+            },
+            {
+                "day": "Thursday",
+                "hours": "8 AM to 5 PM"
+            },
+            {
+                "day": "Friday",
+                "hours": "8 AM to 5 PM"
+            },
+            {
+                "day": "Saturday",
+                "hours": "8 AM to 5 PM"
+            },
+            {
+                "day": "Sunday",
+                "hours": "Closed"
+            }
+        ],
+        "peopleAlsoSearch": [
+            {
+                "category": "People also search for",
+                "title": "Las Villas",
+                "reviewsCount": 2,
+                "totalScore": 3
+            },
+            {
+                "category": "People also search for",
+                "title": "River Place Apartments",
+                "reviewsCount": 24,
+                "totalScore": 3.6
+            },
+            {
+                "category": "People also search for",
+                "title": "Riverside Palms Apartments",
+                "reviewsCount": 292,
+                "totalScore": 3.5
+            },
+            {
+                "category": "People also search for",
+                "title": "Riverfront Apartments",
+                "reviewsCount": 21,
+                "totalScore": 2.8
+            },
+            {
+                "category": "People also search for",
+                "title": "River Rock",
+                "reviewsCount": 50,
+                "totalScore": 4.2
+            }
+        ],
+        "placesTags": [],
+        "reviewsTags": [
+            {
+                "title": "property",
+                "count": 3
+            },
+            {
+                "title": "management",
+                "count": 3
+            }
+        ],
+        "additionalInfo": {
+            "Accessibility": [
+                {
+                    "Wheelchair accessible entrance": true
+                },
+                {
+                    "Wheelchair accessible parking lot": true
+                }
+            ]
+        },
+        "gasPrices": [],
+        "questionsAndAnswers": null,
+        "updatesFromCustomers": null,
+        "url": "https://www.google.com/maps/search/?api=1&query=Riverside%20Villas%20%26%20Marina&query_place_id=ChIJPV4Qu67GwogR4X7KH-8Vmkk",
+        "webResults": [],
+        "orderBy": [],
+        "imageUrls": [],
+        "reviews": []
+    }
+]

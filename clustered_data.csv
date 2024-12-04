@@ -1,0 +1,371 @@
+location,displayName,latitude,longitude,cluster
+"{'latitude': 25.7586752, 'longitude': -80.30337949999999}","{'text': 'Ludlam Plaza Apartments', 'languageCode': 'en'}",25.7586752,-80.30337949999999,45
+"{'latitude': 25.7572051, 'longitude': -80.30346399999999}","{'text': 'Windsor House Apartments', 'languageCode': 'en'}",25.7572051,-80.30346399999999,45
+"{'latitude': 25.6924852, 'longitude': -80.3060802}","{'text': 'Green House Apartments, Dadeland', 'languageCode': 'en'}",25.6924852,-80.3060802,0
+"{'latitude': 25.6924749, 'longitude': -80.3053463}","{'text': 'Motion at Dadeland', 'languageCode': 'en'}",25.6924749,-80.3053463,0
+"{'latitude': 25.688150999999998, 'longitude': -80.31263799999999}","{'text': 'Metropolis Dadeland Apartments', 'languageCode': 'en'}",25.688150999999998,-80.31263799999999,1
+"{'latitude': 25.8241725, 'longitude': -80.22429210000001}","{'text': 'Liberty Village', 'languageCode': 'en'}",25.8241725,-80.22429210000001,2
+"{'latitude': 25.8795704, 'longitude': -80.1678924}","{'text': 'Biscayne 112', 'languageCode': 'en'}",25.8795704,-80.1678924,3
+"{'latitude': 25.9249291, 'longitude': -80.15904599999999}","{'text': 'NE 162nd Apartments', 'languageCode': 'en'}",25.9249291,-80.15904599999999,40
+"{'latitude': 25.7406983, 'longitude': -80.2394295}","{'text': 'Grove Central Residences', 'languageCode': 'en'}",25.7406983,-80.2394295,18
+"{'latitude': 25.7331324, 'longitude': -80.23478419999999}","{'text': 'Double Threat Towers', 'languageCode': 'en'}",25.7331324,-80.23478419999999,26
+"{'latitude': 25.765631, 'longitude': -80.2316866}","{'text': 'Vista Alegre Apartments', 'languageCode': 'en'}",25.765631,-80.2316866,46
+"{'latitude': 25.765568, 'longitude': -80.1975124}","{'text': 'Vista Grande Apartments', 'languageCode': 'en'}",25.765568,-80.1975124,4
+"{'latitude': 25.7887319, 'longitude': -80.19330409999999}","{'text': 'Square Station Apartments', 'languageCode': 'en'}",25.7887319,-80.19330409999999,5
+"{'latitude': 25.924260099999998, 'longitude': -80.1233329}","{'text': 'Marina Del Mar', 'languageCode': 'en'}",25.924260099999998,-80.1233329,6
+"{'latitude': 25.9240688, 'longitude': -80.1216598}","{'text': 'Apto Miami', 'languageCode': 'es'}",25.9240688,-80.1216598,6
+"{'latitude': 25.9232597, 'longitude': -80.1218135}","{'text': 'Miami apartamento', 'languageCode': 'en'}",25.9232597,-80.1218135,6
+"{'latitude': 25.7642997, 'longitude': -80.19412729999999}","{'text': 'Camden Brickell Apartments', 'languageCode': 'en'}",25.7642997,-80.19412729999999,7
+"{'latitude': 25.7646002, 'longitude': -80.19694319999999}","{'text': 'West Brickell Apartments in Miami', 'languageCode': 'en'}",25.7646002,-80.19694319999999,4
+"{'latitude': 25.7645993, 'longitude': -80.1960368}","{'text': 'Brickell View Terrace', 'languageCode': 'en'}",25.7645993,-80.1960368,7
+"{'latitude': 25.7621401, 'longitude': -80.198139}","{'text': 'City Crossings Apartments', 'languageCode': 'en'}",25.7621401,-80.198139,8
+"{'latitude': 25.7616732, 'longitude': -80.1987626}","{'text': 'Legacy at Brickell', 'languageCode': 'en'}",25.7616732,-80.1987626,8
+"{'latitude': 25.766155599999998, 'longitude': -80.1966382}","{'text': 'West Brickell View', 'languageCode': 'en'}",25.766155599999998,-80.1966382,4
+"{'latitude': 25.763593, 'longitude': -80.1958883}","{'text': 'Brickell Ridge Apartments', 'languageCode': 'en'}",25.763593,-80.1958883,7
+"{'latitude': 25.7626608, 'longitude': -80.1977278}","{'text': 'Maizon Brickell', 'languageCode': 'en'}",25.7626608,-80.1977278,8
+"{'latitude': 25.7650357, 'longitude': -80.1979455}","{'text': 'Joe Moretti Apartments in Miami', 'languageCode': 'en'}",25.7650357,-80.1979455,4
+"{'latitude': 25.763212199999998, 'longitude': -80.1948623}","{'text': 'Axis apartments Brickell', 'languageCode': 'en'}",25.763212199999998,-80.1948623,7
+"{'latitude': 25.7616798, 'longitude': -80.1917902}","{'text': 'Liberty square apartments', 'languageCode': 'en'}",25.7616798,-80.1917902,9
+"{'latitude': 25.766456899999998, 'longitude': -80.19673890000001}","{'text': 'City Heights, Miami, FL', 'languageCode': 'en'}",25.766456899999998,-80.19673890000001,4
+"{'latitude': 25.7777189, 'longitude': -80.1897405}","{'text': 'Alea Miami', 'languageCode': 'en'}",25.7777189,-80.1897405,10
+"{'latitude': 25.870191799999997, 'longitude': -80.123182}","{'text': '331 Apartments', 'languageCode': 'en'}",25.870191799999997,-80.123182,11
+"{'latitude': 25.8701527, 'longitude': -80.12258039999999}","{'text': 'Harding Village', 'languageCode': 'en'}",25.8701527,-80.12258039999999,11
+"{'latitude': 25.869616699999998, 'longitude': -80.1226849}","{'text': 'Serenade Miami', 'languageCode': 'en'}",25.869616699999998,-80.1226849,11
+"{'latitude': 25.8664615, 'longitude': -80.1224981}","{'text': 'Apartamentos en Miami', 'languageCode': 'en'}",25.8664615,-80.1224981,12
+"{'latitude': 25.868534, 'longitude': -80.12207389999999}","{'text': 'Ceasars Apartments Buildings', 'languageCode': 'en'}",25.868534,-80.12207389999999,13
+"{'latitude': 25.8695649, 'longitude': -80.12345359999999}","{'text': 'Terry Beach Apartments', 'languageCode': 'en'}",25.8695649,-80.12345359999999,11
+"{'latitude': 25.8672956, 'longitude': -80.12202479999999}","{'text': 'Miracle Apartments', 'languageCode': 'en'}",25.8672956,-80.12202479999999,12
+"{'latitude': 25.865897999999998, 'longitude': -80.1224668}","{'text': 'North Beach Property Management', 'languageCode': 'en'}",25.865897999999998,-80.1224668,12
+"{'latitude': 25.869773799999997, 'longitude': -80.1227005}","{'text': 'THE BEACH CORNER', 'languageCode': 'en'}",25.869773799999997,-80.1227005,11
+"{'latitude': 25.7639386, 'longitude': -80.1934826}","{'text': 'Camden Brickell Apartments', 'languageCode': 'en'}",25.7639386,-80.1934826,7
+"{'latitude': 25.7843864, 'longitude': -80.1313435}","{'text': 'Alamac Apartments', 'languageCode': 'en'}",25.7843864,-80.1313435,14
+"{'latitude': 25.8135115, 'longitude': -80.1224196}","{'text': ""King Richard's Apartments"", 'languageCode': 'en'}",25.8135115,-80.1224196,15
+"{'latitude': 25.814116100000003, 'longitude': -80.1296208}","{'text': 'Miami Apartment FInders', 'languageCode': 'en'}",25.814116100000003,-80.1296208,43
+"{'latitude': 25.7761581, 'longitude': -80.1398804}","{'text': 'Lulav Square Apartments', 'languageCode': 'en'}",25.7761581,-80.1398804,23
+"{'latitude': 25.7731459, 'longitude': -80.1335273}","{'text': 'Balmoral Apartments', 'languageCode': 'en'}",25.7731459,-80.1335273,36
+"{'latitude': 25.778620399999998, 'longitude': -80.1337508}","{'text': 'Blackstone Apartments', 'languageCode': 'en'}",25.778620399999998,-80.1337508,27
+"{'latitude': 25.900050000000004, 'longitude': -80.25294099999999}","{'text': 'Opa-Locka Tri-Rail Station', 'languageCode': 'en'}",25.900050000000004,-80.25294099999999,16
+"{'latitude': 25.778111, 'longitude': -80.287713}","{'text': 'NW 7 St & NW 57 Av', 'languageCode': 'en'}",25.778111,-80.287713,17
+"{'latitude': 25.766403999999998, 'longitude': -80.23098900000001}","{'text': 'SW 7 St & SW 22 Av', 'languageCode': 'en'}",25.766403999999998,-80.23098900000001,46
+"{'latitude': 25.739776199999998, 'longitude': -80.23934919999999}","{'text': 'Coconut Grove Sta & 2780 SW 27 Av', 'languageCode': 'en'}",25.739776199999998,-80.23934919999999,18
+"{'latitude': 25.764317, 'longitude': -80.195318}","{'text': 'Brickell Station (East Side)', 'languageCode': 'en'}",25.764317,-80.195318,7
+"{'latitude': 25.7643604, 'longitude': -80.1931754}","{'text': 'S Miami a/SE 10 S', 'languageCode': 'en'}",25.7643604,-80.1931754,7
+"{'latitude': 25.764872099999998, 'longitude': -80.1955291}","{'text': 'Brickell Station (West Side)', 'languageCode': 'en'}",25.764872099999998,-80.1955291,7
+"{'latitude': 25.813276, 'longitude': -80.122939}","{'text': 'Miami Beach', 'languageCode': 'en'}",25.813276,-80.122939,15
+"{'latitude': 25.7751198, 'longitude': -80.13368129999999}","{'text': 'Base Valet Parque', 'languageCode': 'en'}",25.7751198,-80.13368129999999,19
+"{'latitude': 25.8001471, 'longitude': -80.2607209}","{'text': 'Rent Smart Car Rental', 'languageCode': 'en'}",25.8001471,-80.2607209,20
+"{'latitude': 25.7998485, 'longitude': -80.26091}","{'text': 'Drive A Rent a Car Miami', 'languageCode': 'en'}",25.7998485,-80.26091,20
+"{'latitude': 25.7999397, 'longitude': -80.2598026}","{'text': 'Super Nice Rent a Car', 'languageCode': 'en'}",25.7999397,-80.2598026,20
+"{'latitude': 25.7969309, 'longitude': -80.2597967}","{'text': 'Alamo Rent A Car', 'languageCode': 'en'}",25.7969309,-80.2597967,21
+"{'latitude': 25.796645599999998, 'longitude': -80.2597243}","{'text': 'National Car Rental', 'languageCode': 'en'}",25.796645599999998,-80.2597243,21
+"{'latitude': 25.6928613, 'longitude': -80.30495739999999}","{'text': 'Enterprise Rent-A-Car', 'languageCode': 'en'}",25.6928613,-80.30495739999999,0
+"{'latitude': 25.799739799999998, 'longitude': -80.2613587}","{'text': 'Florida Premium Rentacar', 'languageCode': 'en'}",25.799739799999998,-80.2613587,20
+"{'latitude': 25.799419399999998, 'longitude': -80.2610222}","{'text': 'Via Rent a Car Miami', 'languageCode': 'es'}",25.799419399999998,-80.2610222,20
+"{'latitude': 25.7975032, 'longitude': -80.2597108}","{'text': 'Car Rental Miami Airport', 'languageCode': 'en'}",25.7975032,-80.2597108,21
+"{'latitude': 25.867646699999998, 'longitude': -80.2655193}","{'text': 'RENT AND GO CARS, LLC', 'languageCode': 'en'}",25.867646699999998,-80.2655193,44
+"{'latitude': 25.800673999999997, 'longitude': -80.26162599999999}","{'text': 'Loop Rent a Car', 'languageCode': 'es'}",25.800673999999997,-80.26162599999999,20
+"{'latitude': 25.8001774, 'longitude': -80.2607843}","{'text': 'Car Rental Airport LLC', 'languageCode': 'en'}",25.8001774,-80.2607843,20
+"{'latitude': 25.799338, 'longitude': -80.26082}","{'text': 'Mundocar Rental', 'languageCode': 'en'}",25.799338,-80.26082,20
+"{'latitude': 25.7997151, 'longitude': -80.2621223}","{'text': 'OC Car Rental', 'languageCode': 'en'}",25.7997151,-80.2621223,20
+"{'latitude': 25.7993132, 'longitude': -80.2618049}","{'text': 'Renta Florida', 'languageCode': 'en'}",25.7993132,-80.2618049,20
+"{'latitude': 25.796916099999997, 'longitude': -80.259794}","{'text': 'Enterprise Rent-A-Car', 'languageCode': 'en'}",25.796916099999997,-80.259794,21
+"{'latitude': 25.7994326, 'longitude': -80.2617677}","{'text': 'Miami Rent A Car Plus', 'languageCode': 'en'}",25.7994326,-80.2617677,20
+"{'latitude': 25.801307599999998, 'longitude': -80.2619916}","{'text': 'Pop Car Rental', 'languageCode': 'en'}",25.801307599999998,-80.2619916,20
+"{'latitude': 25.797131099999998, 'longitude': -80.2608274}","{'text': 'Miami Car Rental Center & Tours', 'languageCode': 'en'}",25.797131099999998,-80.2608274,21
+"{'latitude': 25.8000536, 'longitude': -80.2604934}","{'text': 'Renta Car Miami', 'languageCode': 'es'}",25.8000536,-80.2604934,20
+"{'latitude': 25.7969552, 'longitude': -80.26088100000001}","{'text': 'SIXT Rent a Car', 'languageCode': 'en'}",25.7969552,-80.26088100000001,21
+"{'latitude': 25.7971194, 'longitude': -80.2599846}","{'text': 'Advantage', 'languageCode': 'en'}",25.7971194,-80.2599846,21
+"{'latitude': 25.799752800000004, 'longitude': -80.26178399999999}","{'text': 'Supreme Rent A Car', 'languageCode': 'en'}",25.799752800000004,-80.26178399999999,20
+"{'latitude': 25.7890118, 'longitude': -80.1933436}","{'text': 'All Access Rentals', 'languageCode': 'en'}",25.7890118,-80.1933436,5
+"{'latitude': 25.6929104, 'longitude': -80.30509119999999}","{'text': 'Budget Car Rental', 'languageCode': 'en'}",25.6929104,-80.30509119999999,0
+"{'latitude': 25.693030099999998, 'longitude': -80.3051235}","{'text': 'Avis Car Rental', 'languageCode': 'en'}",25.693030099999998,-80.3051235,0
+"{'latitude': 25.7825842, 'longitude': -80.2644787}","{'text': 'Enterprise Rent-A-Car', 'languageCode': 'en'}",25.7825842,-80.2644787,34
+"{'latitude': 25.7825987, 'longitude': -80.2644583}","{'text': 'Rental Cars', 'languageCode': 'en'}",25.7825987,-80.2644583,34
+"{'latitude': 25.7915404, 'longitude': -80.1859581}","{'text': 'Enterprise Rent-A-Car', 'languageCode': 'en'}",25.7915404,-80.1859581,41
+"{'latitude': 25.936932, 'longitude': -80.12065}","{'text': 'Budget Car Rental', 'languageCode': 'en'}",25.936932,-80.12065,22
+"{'latitude': 25.7604836, 'longitude': -80.1909065}","{'text': 'Flo Car Rental', 'languageCode': 'es'}",25.7604836,-80.1909065,9
+"{'latitude': 25.761999199999998, 'longitude': -80.1923449}","{'text': 'Brickell Exotic Rental', 'languageCode': 'en'}",25.761999199999998,-80.1923449,9
+"{'latitude': 25.762477399999998, 'longitude': -80.1912988}","{'text': 'Enterprise Rent-A-Car', 'languageCode': 'en'}",25.762477399999998,-80.1912988,9
+"{'latitude': 25.789012699999997, 'longitude': -80.1933474}","{'text': 'Miami Exotic Car Rental VIP', 'languageCode': 'en'}",25.789012699999997,-80.1933474,5
+"{'latitude': 25.8147198, 'longitude': -80.12300130000001}","{'text': 'SIXT Rent a Car', 'languageCode': 'en'}",25.8147198,-80.12300130000001,15
+"{'latitude': 25.815032199999997, 'longitude': -80.12327379999999}","{'text': 'Alamo Rent A Car', 'languageCode': 'en'}",25.815032199999997,-80.12327379999999,15
+"{'latitude': 25.811190600000003, 'longitude': -80.1232136}","{'text': 'Hertz Car Rental - Miami Beach - Collins HLE', 'languageCode': 'en'}",25.811190600000003,-80.1232136,15
+"{'latitude': 25.815032199999997, 'longitude': -80.12327379999999}","{'text': 'Enterprise Rent-A-Car', 'languageCode': 'en'}",25.815032199999997,-80.12327379999999,15
+"{'latitude': 25.787924999999998, 'longitude': -80.130825}","{'text': 'Premier Auto Miami', 'languageCode': 'en'}",25.787924999999998,-80.130825,49
+"{'latitude': 25.7740376, 'longitude': -80.1385864}","{'text': 'Enterprise Rent-A-Car', 'languageCode': 'en'}",25.7740376,-80.1385864,23
+"{'latitude': 25.773857699999997, 'longitude': -80.13923849999999}","{'text': 'Elite Luxury Rental', 'languageCode': 'en'}",25.773857699999997,-80.13923849999999,23
+"{'latitude': 25.799061400000003, 'longitude': -80.1283802}","{'text': 'Avis Car Rental', 'languageCode': 'en'}",25.799061400000003,-80.1283802,24
+"{'latitude': 25.8152884, 'longitude': -80.1229458}","{'text': 'National Car Rental', 'languageCode': 'en'}",25.8152884,-80.1229458,15
+"{'latitude': 25.8111488, 'longitude': -80.1226631}","{'text': 'Dollar Car Rental - Miami Beach, Fl Dle', 'languageCode': 'en'}",25.8111488,-80.1226631,15
+"{'latitude': 25.8012218, 'longitude': -80.2613834}","{'text': 'Rent a Car 4 Less', 'languageCode': 'en'}",25.8012218,-80.2613834,20
+"{'latitude': 25.824162599999998, 'longitude': -80.2797373}","{'text': 'Hialeah Housing Authority Palm', 'languageCode': 'en'}",25.824162599999998,-80.2797373,25
+"{'latitude': 25.7334075, 'longitude': -80.234004}","{'text': 'Housing Trust Group, LLC', 'languageCode': 'en'}",25.7334075,-80.234004,26
+"{'latitude': 25.7642444, 'longitude': -80.1941695}","{'text': 'Housing of Miami Mainsail', 'languageCode': 'en'}",25.7642444,-80.1941695,7
+"{'latitude': 25.762473000000004, 'longitude': -80.1905578}","{'text': 'First Choice Corporate Housing', 'languageCode': 'en'}",25.762473000000004,-80.1905578,9
+"{'latitude': 25.870399499999998, 'longitude': -80.12274959999999}","{'text': 'Carrfour Inc LLC', 'languageCode': 'en'}",25.870399499999998,-80.12274959999999,11
+"{'latitude': 25.765041399999998, 'longitude': -80.1920581}","{'text': 'US Housing & Urban Dev Department', 'languageCode': 'en'}",25.765041399999998,-80.1920581,7
+"{'latitude': 25.7752575, 'longitude': -80.13272540000001}","{'text': 'Council Towers South', 'languageCode': 'en'}",25.7752575,-80.13272540000001,19
+"{'latitude': 25.781431899999998, 'longitude': -80.1318375}","{'text': 'Council Towers North', 'languageCode': 'en'}",25.781431899999998,-80.1318375,33
+"{'latitude': 25.7801315, 'longitude': -80.13363369999999}","{'text': 'Miami Beach Community Development Corporation', 'languageCode': 'en'}",25.7801315,-80.13363369999999,27
+"{'latitude': 25.6920786, 'longitude': -80.30490309999999}","{'text': 'Dadeland North', 'languageCode': 'en'}",25.6920786,-80.30490309999999,0
+"{'latitude': 25.766887999999998, 'longitude': -80.192121}","{'text': 'Eighth Street Station', 'languageCode': 'en'}",25.766887999999998,-80.192121,28
+"{'latitude': 25.6848174, 'longitude': -80.3138432}","{'text': 'Dadeland South Metrorail Station', 'languageCode': 'en'}",25.6848174,-80.3138432,29
+"{'latitude': 25.7398154, 'longitude': -80.2388589}","{'text': 'Coconut Grove', 'languageCode': 'en'}",25.7398154,-80.2388589,18
+"{'latitude': 25.899899, 'longitude': -80.25296}","{'text': 'Opa-locka Station', 'languageCode': 'en'}",25.899899,-80.25296,16
+"{'latitude': 25.6850395, 'longitude': -80.31367209999999}","{'text': 'Dadeland South', 'languageCode': 'en'}",25.6850395,-80.31367209999999,29
+"{'latitude': 25.685314, 'longitude': -80.313339}","{'text': 'Dadeland South Metrorail Station', 'languageCode': 'en'}",25.685314,-80.313339,29
+"{'latitude': 25.7327639, 'longitude': -80.2548669}","{'text': 'Douglas Road Station', 'languageCode': 'en'}",25.7327639,-80.2548669,30
+"{'latitude': 25.7399514, 'longitude': -80.238829}","{'text': 'Coconut Grove Metrorail Station', 'languageCode': 'en'}",25.7399514,-80.238829,18
+"{'latitude': 25.846481, 'longitude': -80.259613}","{'text': 'Tri-Rail/Metrorail Transfer Station', 'languageCode': 'en'}",25.846481,-80.259613,31
+"{'latitude': 25.900096299999998, 'longitude': -80.25330249999999}","{'text': 'TRI-RAIL', 'languageCode': 'en'}",25.900096299999998,-80.25330249999999,16
+"{'latitude': 25.8999083, 'longitude': -80.25340299999999}","{'text': 'Opa-Locka Station', 'languageCode': 'en'}",25.8999083,-80.25340299999999,16
+"{'latitude': 25.824447, 'longitude': -80.27913}","{'text': 'E 3 St & E 1 Av', 'languageCode': 'en'}",25.824447,-80.27913,25
+"{'latitude': 25.845557, 'longitude': -80.259954}","{'text': 'E 25 St & 11 Av Hialeah', 'languageCode': 'en'}",25.845557,-80.259954,31
+"{'latitude': 25.8455537, 'longitude': -80.2597682}","{'text': 'Tri-Rail', 'languageCode': 'en'}",25.8455537,-80.2597682,31
+"{'latitude': 25.8463896, 'longitude': -80.25985179999999}","{'text': 'Tri-Rail/Metrorail Transfer Station', 'languageCode': 'en'}",25.8463896,-80.25985179999999,31
+"{'latitude': 25.845464999999997, 'longitude': -80.25967399999999}","{'text': 'Tri-Rail/Metrorail Transfer Station', 'languageCode': 'en'}",25.845464999999997,-80.25967399999999,31
+"{'latitude': 25.732784, 'longitude': -80.254814}","{'text': 'Douglas Road Metrorail Station', 'languageCode': 'en'}",25.732784,-80.254814,30
+"{'latitude': 25.732675999999998, 'longitude': -80.254707}","{'text': 'Douglas Rd Station & 3100 SW 37 Av', 'languageCode': 'en'}",25.732675999999998,-80.254707,30
+"{'latitude': 25.789347, 'longitude': -80.193092}","{'text': 'School Board Station', 'languageCode': 'en'}",25.789347,-80.193092,5
+"{'latitude': 25.837583, 'longitude': -80.20884199999999}","{'text': 'NW 7 Av & NW 69 St', 'languageCode': 'en'}",25.837583,-80.20884199999999,32
+"{'latitude': 25.926171999999998, 'longitude': -80.15877499999999}","{'text': 'NE 163 St & NE 21 Av', 'languageCode': 'en'}",25.926171999999998,-80.15877499999999,40
+"{'latitude': 25.734043999999997, 'longitude': -80.234101}","{'text': 'Tigertail Av & Aviation Av', 'languageCode': 'en'}",25.734043999999997,-80.234101,26
+"{'latitude': 25.732903099999998, 'longitude': -80.25484279999999}","{'text': 'Douglas Station Park & Ride', 'languageCode': 'en'}",25.732903099999998,-80.25484279999999,30
+"{'latitude': 25.734316999999997, 'longitude': -80.23395}","{'text': 'Tigertail Av & Washington St', 'languageCode': 'en'}",25.734316999999997,-80.23395,26
+"{'latitude': 25.7403905, 'longitude': -80.2391777}","{'text': 'Coconut Grove Metrorail Station', 'languageCode': 'en'}",25.7403905,-80.2391777,18
+"{'latitude': 25.732218999999997, 'longitude': -80.253753}","{'text': 'SW 37 Av & US 1', 'languageCode': 'en'}",25.732218999999997,-80.253753,30
+"{'latitude': 25.764015999999998, 'longitude': -80.19256}","{'text': 'Tenth Street Promenade Metromover Station', 'languageCode': 'en'}",25.764015999999998,-80.19256,7
+"{'latitude': 25.766385999999997, 'longitude': -80.192314}","{'text': 'SE 8 St & SE 1 Av', 'languageCode': 'en'}",25.766385999999997,-80.192314,28
+"{'latitude': 25.777583999999997, 'longitude': -80.18991500000001}","{'text': 'College Bayside Metromover Station', 'languageCode': 'en'}",25.777583999999997,-80.18991500000001,10
+"{'latitude': 25.779982999999998, 'longitude': -80.132903}","{'text': 'Washington Av & 9 St', 'languageCode': 'en'}",25.779982999999998,-80.132903,27
+"{'latitude': 25.782178, 'longitude': -80.13237900000001}","{'text': 'Washington Av & 11 St', 'languageCode': 'en'}",25.782178,-80.13237900000001,33
+"{'latitude': 25.814338, 'longitude': -80.12272899999999}","{'text': 'Collins Av & 43 St', 'languageCode': 'en'}",25.814338,-80.12272899999999,15
+"{'latitude': 25.7638264, 'longitude': -80.19543019999999}","{'text': 'Brickell', 'languageCode': 'en'}",25.7638264,-80.19543019999999,7
+"{'latitude': 25.771324, 'longitude': -80.13498100000001}","{'text': 'Washington Av & 2 St', 'languageCode': 'en'}",25.771324,-80.13498100000001,42
+"{'latitude': 25.774986, 'longitude': -80.13392499999999}","{'text': 'Washington Av & 5 St', 'languageCode': 'en'}",25.774986,-80.13392499999999,19
+"{'latitude': 25.8328614, 'longitude': -80.1846513}","{'text': 'Vive Zen', 'languageCode': 'en'}",25.8328614,-80.1846513,47
+"{'latitude': 25.687934600000002, 'longitude': -80.3189242}","{'text': 'Aloft Miami Dadeland', 'languageCode': 'en'}",25.687934600000002,-80.3189242,37
+"{'latitude': 25.779042, 'longitude': -80.2880457}","{'text': 'Hampton Inn & Suites by Hilton Miami Airport South Blue Lagoon', 'languageCode': 'en'}",25.779042,-80.2880457,17
+"{'latitude': 25.781211700000004, 'longitude': -80.2649667}","{'text': 'Sonesta Miami Airport', 'languageCode': 'en'}",25.781211700000004,-80.2649667,34
+"{'latitude': 25.781769999999998, 'longitude': -80.2649323}","{'text': 'Regency Miami Airport by Sonesta', 'languageCode': 'en'}",25.781769999999998,-80.2649323,34
+"{'latitude': 25.871251599999997, 'longitude': -80.12220160000001}","{'text': 'Beach Place', 'languageCode': 'en'}",25.871251599999997,-80.12220160000001,11
+"{'latitude': 25.6860862, 'longitude': -80.3147798}","{'text': 'Courtyard by Marriott Miami Dadeland', 'languageCode': 'en'}",25.6860862,-80.3147798,29
+"{'latitude': 25.685866299999997, 'longitude': -80.313626}","{'text': 'Miami Marriott Dadeland', 'languageCode': 'en'}",25.685866299999997,-80.313626,29
+"{'latitude': 25.7275563, 'longitude': -80.2419389}","{'text': 'Mr. C Miami - Coconut Grove', 'languageCode': 'en'}",25.7275563,-80.2419389,35
+"{'latitude': 25.8340267, 'longitude': -80.1843174}","{'text': 'Shalimar Motel', 'languageCode': 'en'}",25.8340267,-80.1843174,47
+"{'latitude': 25.8787666, 'longitude': -80.1682883}","{'text': 'Sun N Surf Inn', 'languageCode': 'en'}",25.8787666,-80.1682883,3
+"{'latitude': 25.878803899999998, 'longitude': -80.1682156}","{'text': 'Nexx Motel - Biscayne', 'languageCode': 'en'}",25.878803899999998,-80.1682156,3
+"{'latitude': 25.936558599999998, 'longitude': -80.1208875}","{'text': 'Solé Miami, A Noble House Resort', 'languageCode': 'en'}",25.936558599999998,-80.1208875,22
+"{'latitude': 25.936940800000002, 'longitude': -80.120708}","{'text': 'DoubleTree Resort & Spa by Hilton Hotel Ocean Point - North Miami Beach', 'languageCode': 'en'}",25.936940800000002,-80.120708,22
+"{'latitude': 25.764638800000004, 'longitude': -80.19289549999999}","{'text': 'citizenM Miami Brickell Hotel', 'languageCode': 'en'}",25.764638800000004,-80.19289549999999,7
+"{'latitude': 25.7610806, 'longitude': -80.19889169999999}","{'text': 'Extended Stay America Premier Suites - Miami - Downtown Brickell - Cruise Port', 'languageCode': 'en'}",25.7610806,-80.19889169999999,8
+"{'latitude': 25.7616798, 'longitude': -80.1917902}","{'text': 'Little Havana', 'languageCode': 'en'}",25.7616798,-80.1917902,9
+"{'latitude': 25.787099899999998, 'longitude': -80.1320058}","{'text': 'Kasa El Paseo Miami Beach', 'languageCode': 'en'}",25.787099899999998,-80.1320058,49
+"{'latitude': 25.8127365, 'longitude': -80.1226222}","{'text': 'The Confidante Miami Beach - The Unbound Collection by Hyatt', 'languageCode': 'en'}",25.8127365,-80.1226222,15
+"{'latitude': 25.866499299999997, 'longitude': -80.1224807}","{'text': 'The Donovan at Miami Beach', 'languageCode': 'en'}",25.866499299999997,-80.1224807,12
+"{'latitude': 25.936982699999998, 'longitude': -80.1207388}","{'text': 'Hotel Beatiful Studio Ocean View', 'languageCode': 'en'}",25.936982699999998,-80.1207388,22
+"{'latitude': 25.7701767, 'longitude': -80.1340999}","{'text': 'The Mercury Hotel', 'languageCode': 'en'}",25.7701767,-80.1340999,42
+"{'latitude': 25.778971, 'longitude': -80.13220500000001}","{'text': 'Hotel Shelley', 'languageCode': 'en'}",25.778971,-80.13220500000001,27
+"{'latitude': 25.773654699999998, 'longitude': -80.13396809999999}","{'text': 'Deco Mode Hotel', 'languageCode': 'en'}",25.773654699999998,-80.13396809999999,36
+"{'latitude': 25.7734789, 'longitude': -80.1346118}","{'text': 'Villa Italia South Beach Miami', 'languageCode': 'en'}",25.7734789,-80.1346118,36
+"{'latitude': 25.7848649, 'longitude': -80.13221060000001}","{'text': 'Casa Boutique Hotel', 'languageCode': 'en'}",25.7848649,-80.13221060000001,14
+"{'latitude': 25.784381099999997, 'longitude': -80.1300461}","{'text': 'Cavalier South Beach Hotel', 'languageCode': 'en'}",25.784381099999997,-80.1300461,14
+"{'latitude': 25.7846028, 'longitude': -80.1310699}","{'text': 'Suites On South Beach', 'languageCode': 'en'}",25.7846028,-80.1310699,14
+"{'latitude': 25.815511899999997, 'longitude': -80.12225509999999}","{'text': 'Radisson Resort Miami Beach', 'languageCode': 'en'}",25.815511899999997,-80.12225509999999,15
+"{'latitude': 25.814245600000003, 'longitude': -80.1225724}","{'text': 'Lexington by Hotel RL Miami Beach', 'languageCode': 'en'}",25.814245600000003,-80.1225724,15
+"{'latitude': 25.8120516, 'longitude': -80.12354909999999}","{'text': 'Circa 39 Hotel', 'languageCode': 'en'}",25.8120516,-80.12354909999999,15
+"{'latitude': 25.8150119, 'longitude': -80.1223383}","{'text': 'Holiday Inn Miami Beach-Oceanfront, an IHG Hotel', 'languageCode': 'en'}",25.8150119,-80.1223383,15
+"{'latitude': 25.812731799999998, 'longitude': -80.1234013}","{'text': 'Hampton Inn Miami Beach - Mid Beach', 'languageCode': 'en'}",25.812731799999998,-80.1234013,15
+"{'latitude': 25.813332, 'longitude': -80.122508}","{'text': 'Best Western Plus Atlantic Beach Resort', 'languageCode': 'en'}",25.813332,-80.122508,15
+"{'latitude': 25.812034099999998, 'longitude': -80.1228024}","{'text': 'Cadillac Hotel & Beach Club, Autograph Collection', 'languageCode': 'en'}",25.812034099999998,-80.1228024,15
+"{'latitude': 25.7785673, 'longitude': -80.1322659}","{'text': 'Posh Hostel South Beach', 'languageCode': 'en'}",25.7785673,-80.1322659,27
+"{'latitude': 25.7868055, 'longitude': -80.13202900000002}","{'text': 'Esmé Miami Beach', 'languageCode': 'en'}",25.7868055,-80.13202900000002,49
+"{'latitude': 25.7851404, 'longitude': -80.13263049999999}","{'text': 'Casita Drexel', 'languageCode': 'en'}",25.7851404,-80.13263049999999,14
+"{'latitude': 25.782406899999998, 'longitude': -80.1316032}","{'text': 'Ocean Reef Suites', 'languageCode': 'en'}",25.782406899999998,-80.1316032,33
+"{'latitude': 25.787427899999997, 'longitude': -80.13096929999999}","{'text': 'Axel Beach Miami · South Beach', 'languageCode': 'en'}",25.787427899999997,-80.13096929999999,49
+"{'latitude': 25.7841602, 'longitude': -80.13006630000001}","{'text': 'Cardozo South Beach', 'languageCode': 'en'}",25.7841602,-80.13006630000001,14
+"{'latitude': 25.837336, 'longitude': -80.2084189}","{'text': 'The Neighborhood Islands Grubb', 'languageCode': 'en'}",25.837336,-80.2084189,32
+"{'latitude': 25.824823199999997, 'longitude': -80.2795415}","{'text': 'Blanche Morton City Of Hialeah Neighborhood Service Center', 'languageCode': 'en'}",25.824823199999997,-80.2795415,25
+"{'latitude': 25.814484500000002, 'longitude': -80.1226195}","{'text': 'Mid-Beach', 'languageCode': 'en'}",25.814484500000002,-80.1226195,15
+"{'latitude': 25.836901599999997, 'longitude': -80.208534}","{'text': 'Liberty Neighborhood Pharmacy', 'languageCode': 'en'}",25.836901599999997,-80.208534,32
+"{'latitude': 25.788584699999998, 'longitude': -80.19378329999999}","{'text': 'Town Square', 'languageCode': 'en'}",25.788584699999998,-80.19378329999999,5
+"{'latitude': 25.7802717, 'longitude': -80.1336773}","{'text': 'Flamingo Park Neighborhood Association', 'languageCode': 'en'}",25.7802717,-80.1336773,27
+"{'latitude': 25.8006718, 'longitude': -80.25933239999999}","{'text': '3901 NW 28th St Parking', 'languageCode': 'en'}",25.8006718,-80.25933239999999,20
+"{'latitude': 25.865897999999998, 'longitude': -80.121505}","{'text': 'Miami Beach Parking Lot', 'languageCode': 'en'}",25.865897999999998,-80.121505,12
+"{'latitude': 25.869479199999997, 'longitude': -80.12162599999999}","{'text': 'Parking', 'languageCode': 'en'}",25.869479199999997,-80.12162599999999,13
+"{'latitude': 25.6881143, 'longitude': -80.3125787}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.6881143,-80.3125787,1
+"{'latitude': 25.7031293, 'longitude': -80.29413679999999}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.7031293,-80.29413679999999,38
+"{'latitude': 25.801220599999997, 'longitude': -80.2613839}","{'text': ""Park 'N Fly"", 'languageCode': 'en'}",25.801220599999997,-80.2613839,20
+"{'latitude': 25.7991648, 'longitude': -80.26040189999999}","{'text': 'Park to Go MIA', 'languageCode': 'en'}",25.7991648,-80.26040189999999,20
+"{'latitude': 25.7903332, 'longitude': -80.18650389999999}","{'text': 'KCP PARKING LOT', 'languageCode': 'en'}",25.7903332,-80.18650389999999,41
+"{'latitude': 25.7034804, 'longitude': -80.2951497}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.7034804,-80.2951497,38
+"{'latitude': 25.688106899999998, 'longitude': -80.3124529}","{'text': 'Parking', 'languageCode': 'en'}",25.688106899999998,-80.3124529,1
+"{'latitude': 25.781087799999998, 'longitude': -80.2648849}","{'text': 'Parking', 'languageCode': 'en'}",25.781087799999998,-80.2648849,34
+"{'latitude': 25.7993132, 'longitude': -80.2618049}","{'text': 'Tropical Airport Parking | Miami', 'languageCode': 'en'}",25.7993132,-80.2618049,20
+"{'latitude': 25.7989277, 'longitude': -80.2606495}","{'text': 'Arow airport parking', 'languageCode': 'en'}",25.7989277,-80.2606495,20
+"{'latitude': 25.801050999999998, 'longitude': -80.261214}","{'text': '3981 NW 28th St Parking', 'languageCode': 'en'}",25.801050999999998,-80.261214,20
+"{'latitude': 25.7999416, 'longitude': -80.2607286}","{'text': '4021 NW 26th St Parking', 'languageCode': 'en'}",25.7999416,-80.2607286,20
+"{'latitude': 25.685240999999998, 'longitude': -80.3143061}","{'text': 'Executive Valet Parking Solutions', 'languageCode': 'en'}",25.685240999999998,-80.3143061,29
+"{'latitude': 25.688050999999998, 'longitude': -80.3195011}","{'text': 'Indigo', 'languageCode': 'en'}",25.688050999999998,-80.3195011,37
+"{'latitude': 25.702692199999998, 'longitude': -80.2943318}","{'text': 'South Miami hospital visitors parking', 'languageCode': 'en'}",25.702692199999998,-80.2943318,38
+"{'latitude': 25.7031305, 'longitude': -80.2942595}","{'text': '6280 Sunset Dr Garage', 'languageCode': 'en'}",25.7031305,-80.2942595,38
+"{'latitude': 25.833005600000003, 'longitude': -80.1839195}","{'text': '6150 Biscayne Blvd Parking', 'languageCode': 'en'}",25.833005600000003,-80.1839195,47
+"{'latitude': 25.8911642, 'longitude': -80.1781944}","{'text': '1000 NE 126th St Parking', 'languageCode': 'en'}",25.8911642,-80.1781944,39
+"{'latitude': 25.8911715, 'longitude': -80.1772476}","{'text': '1055 NE 125th St Parking', 'languageCode': 'en'}",25.8911715,-80.1772476,39
+"{'latitude': 25.8682911, 'longitude': -80.12303759999999}","{'text': 'Miami Beach Parking Lot', 'languageCode': 'en'}",25.8682911,-80.12303759999999,13
+"{'latitude': 25.8912294, 'longitude': -80.17693109999999}","{'text': '1065 NE 125th St Parking', 'languageCode': 'en'}",25.8912294,-80.17693109999999,39
+"{'latitude': 25.8911739, 'longitude': -80.1776794}","{'text': '1035 NE 125th St Parking', 'languageCode': 'en'}",25.8911739,-80.1776794,39
+"{'latitude': 25.8911474, 'longitude': -80.1779396}","{'text': '1005 NE 125th St Parking', 'languageCode': 'en'}",25.8911474,-80.1779396,39
+"{'latitude': 25.9256782, 'longitude': -80.1595136}","{'text': 'Revolution Parking & Guest Services, LLC', 'languageCode': 'en'}",25.9256782,-80.1595136,40
+"{'latitude': 25.733070299999998, 'longitude': -80.2348325}","{'text': 'LAZ Parking - First Citizens Bank', 'languageCode': 'en'}",25.733070299999998,-80.2348325,26
+"{'latitude': 25.7333125, 'longitude': -80.233882}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.7333125,-80.233882,26
+"{'latitude': 25.7287061, 'longitude': -80.2421785}","{'text': 'Coco Walk Parking', 'languageCode': 'en'}",25.7287061,-80.2421785,35
+"{'latitude': 25.728729599999998, 'longitude': -80.2419383}","{'text': 'The Lot', 'languageCode': 'en'}",25.728729599999998,-80.2419383,35
+"{'latitude': 25.727198899999998, 'longitude': -80.24266879999999}","{'text': 'Grove Front Lot', 'languageCode': 'en'}",25.727198899999998,-80.24266879999999,35
+"{'latitude': 25.7276167, 'longitude': -80.2420921}","{'text': 'Ampco System Parking', 'languageCode': 'en'}",25.7276167,-80.2420921,35
+"{'latitude': 25.7271668, 'longitude': -80.2420106}","{'text': '2750 McFarlane Rd Parking', 'languageCode': 'en'}",25.7271668,-80.2420106,35
+"{'latitude': 25.7279628, 'longitude': -80.2417858}","{'text': 'Public parking', 'languageCode': 'es'}",25.7279628,-80.2417858,35
+"{'latitude': 25.7271839, 'longitude': -80.24267499999999}","{'text': '3427 Main Hwy Parking', 'languageCode': 'en'}",25.7271839,-80.24267499999999,35
+"{'latitude': 25.763960299999997, 'longitude': -80.1940546}","{'text': 'Parking', 'languageCode': 'en'}",25.763960299999997,-80.1940546,7
+"{'latitude': 25.765230499999998, 'longitude': -80.1963363}","{'text': 'Brickell View Terrace Garage', 'languageCode': 'en'}",25.765230499999998,-80.1963363,7
+"{'latitude': 25.766654600000003, 'longitude': -80.1926702}","{'text': 'Parking', 'languageCode': 'en'}",25.766654600000003,-80.1926702,28
+"{'latitude': 25.764292299999997, 'longitude': -80.1946625}","{'text': 'Parking', 'languageCode': 'en'}",25.764292299999997,-80.1946625,7
+"{'latitude': 25.868536, 'longitude': -80.12173709999999}","{'text': 'Parking za North Beach Oceanside Park', 'languageCode': 'en'}",25.868536,-80.12173709999999,13
+"{'latitude': 25.761376199999997, 'longitude': -80.1908606}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.761376199999997,-80.1908606,9
+"{'latitude': 25.7672837, 'longitude': -80.1922879}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.7672837,-80.1922879,28
+"{'latitude': 25.7621568, 'longitude': -80.19067}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.7621568,-80.19067,9
+"{'latitude': 25.762184299999998, 'longitude': -80.1918958}","{'text': 'Miami Parking Inc.', 'languageCode': 'en'}",25.762184299999998,-80.1918958,9
+"{'latitude': 25.764144599999998, 'longitude': -80.1927257}","{'text': 'Parking FI', 'languageCode': 'es'}",25.764144599999998,-80.1927257,7
+"{'latitude': 25.7621953, 'longitude': -80.1898819}","{'text': 'Sabadell Financial Center Parking', 'languageCode': 'en'}",25.7621953,-80.1898819,9
+"{'latitude': 25.7645917, 'longitude': -80.194611}","{'text': 'Mary Brickell Village Parking Office', 'languageCode': 'en'}",25.7645917,-80.194611,7
+"{'latitude': 25.766914300000003, 'longitude': -80.1911911}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.766914300000003,-80.1911911,28
+"{'latitude': 25.764011099999998, 'longitude': -80.1934112}","{'text': 'Camden Brickell Apartments Parking', 'languageCode': 'en'}",25.764011099999998,-80.1934112,7
+"{'latitude': 25.761920999999997, 'longitude': -80.1929242}","{'text': 'Parking', 'languageCode': 'es'}",25.761920999999997,-80.1929242,9
+"{'latitude': 25.790969999999998, 'longitude': -80.18616999999999}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.790969999999998,-80.18616999999999,41
+"{'latitude': 25.791464899999998, 'longitude': -80.18620849999999}","{'text': 'Double Park LLC', 'languageCode': 'en'}",25.791464899999998,-80.18620849999999,41
+"{'latitude': 25.777833, 'longitude': -80.18882800000002}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.777833,-80.18882800000002,10
+"{'latitude': 25.777282399999997, 'longitude': -80.1897206}","{'text': 'Vizcayne Garage', 'languageCode': 'en'}",25.777282399999997,-80.1897206,10
+"{'latitude': 25.791464899999998, 'longitude': -80.18620849999999}","{'text': 'Paradise Parking LLC', 'languageCode': 'en'}",25.791464899999998,-80.18620849999999,41
+"{'latitude': 25.794816700000002, 'longitude': -80.1439621}","{'text': 'Miami Beach Parking Garage', 'languageCode': 'en'}",25.794816700000002,-80.1439621,48
+"{'latitude': 25.813212, 'longitude': -80.12901699999999}","{'text': 'Miami Beach Parking Lot', 'languageCode': 'en'}",25.813212,-80.12901699999999,43
+"{'latitude': 25.784147599999997, 'longitude': -80.130623}","{'text': 'Miami Beach Municipal Parking Garage', 'languageCode': 'en'}",25.784147599999997,-80.130623,14
+"{'latitude': 25.8144933, 'longitude': -80.1289197}","{'text': 'Miami Beach Parking Garage', 'languageCode': 'en'}",25.8144933,-80.1289197,43
+"{'latitude': 25.815566999999998, 'longitude': -80.12217299999999}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.815566999999998,-80.12217299999999,15
+"{'latitude': 25.8687643, 'longitude': -80.12153889999999}","{'text': 'North Beach', 'languageCode': 'es'}",25.8687643,-80.12153889999999,13
+"{'latitude': 25.870454, 'longitude': -80.1219886}","{'text': '240 86th St Parking', 'languageCode': 'en'}",25.870454,-80.1219886,11
+"{'latitude': 25.869501, 'longitude': -80.1216646}","{'text': 'Lot 111', 'languageCode': 'en'}",25.869501,-80.1216646,13
+"{'latitude': 25.8655999, 'longitude': -80.1215186}","{'text': 'P108', 'languageCode': 'en'}",25.8655999,-80.1215186,12
+"{'latitude': 25.7707837, 'longitude': -80.1346854}","{'text': 'Miami Beach Parking Lot', 'languageCode': 'en'}",25.7707837,-80.1346854,42
+"{'latitude': 25.7737268, 'longitude': -80.1400339}","{'text': 'Miami Beach Parking Lot', 'languageCode': 'en'}",25.7737268,-80.1400339,23
+"{'latitude': 25.7753488, 'longitude': -80.1399426}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.7753488,-80.1399426,23
+"{'latitude': 25.7809009, 'longitude': -80.13317289999999}","{'text': 'Miami Beach Parking Lot', 'languageCode': 'en'}",25.7809009,-80.13317289999999,27
+"{'latitude': 25.782801, 'longitude': -80.13307340000001}","{'text': 'Miami Beach Parking Garage', 'languageCode': 'en'}",25.782801,-80.13307340000001,33
+"{'latitude': 25.7751146, 'longitude': -80.1337082}","{'text': '555 Washington Ave Garage', 'languageCode': 'en'}",25.7751146,-80.1337082,19
+"{'latitude': 25.784026299999997, 'longitude': -80.13140539999999}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.784026299999997,-80.13140539999999,14
+"{'latitude': 25.813062199999997, 'longitude': -80.1234721}","{'text': '4000 Collins Avenue Parking Garage', 'languageCode': 'en'}",25.813062199999997,-80.1234721,15
+"{'latitude': 25.812009999999997, 'longitude': -80.12250999999999}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.812009999999997,-80.12250999999999,15
+"{'latitude': 25.8116231, 'longitude': -80.12395149999999}","{'text': 'Professional Parking Management Lot', 'languageCode': 'en'}",25.8116231,-80.12395149999999,15
+"{'latitude': 25.813232799999998, 'longitude': -80.1299563}","{'text': 'Miami Beach Parking Lot', 'languageCode': 'en'}",25.813232799999998,-80.1299563,43
+"{'latitude': 25.813833499999998, 'longitude': -80.1294774}","{'text': '42nd Street & Royal Palm Avenue', 'languageCode': 'en'}",25.813833499999998,-80.1294774,43
+"{'latitude': 25.814752799999997, 'longitude': -80.1231336}","{'text': 'Charles Garage Parking', 'languageCode': 'en'}",25.814752799999997,-80.1231336,15
+"{'latitude': 25.8162856, 'longitude': -80.1225668}","{'text': 'Valet Parking', 'languageCode': 'en'}",25.8162856,-80.1225668,15
+"{'latitude': 25.7750601, 'longitude': -80.13965259999999}","{'text': 'Fifth & Alton Miami Beach Public Parking', 'languageCode': 'en'}",25.7750601,-80.13965259999999,23
+"{'latitude': 25.779646, 'longitude': -80.1334081}","{'text': 'Miami Beach Parking Lot- P12', 'languageCode': 'en'}",25.779646,-80.1334081,27
+"{'latitude': 25.798354999999997, 'longitude': -80.128828}","{'text': 'Miami Beach Parking Lot', 'languageCode': 'en'}",25.798354999999997,-80.128828,24
+"{'latitude': 25.782438199999998, 'longitude': -80.1332553}","{'text': 'SP+ Parking', 'languageCode': 'en'}",25.782438199999998,-80.1332553,33
+"{'latitude': 25.692958299999997, 'longitude': -80.30418499999999}","{'text': 'Subway', 'languageCode': 'en'}",25.692958299999997,-80.30418499999999,0
+"{'latitude': 25.777056899999998, 'longitude': -80.1896053}","{'text': 'Subway', 'languageCode': 'en'}",25.777056899999998,-80.1896053,10
+"{'latitude': 25.8908752, 'longitude': -80.17913539999999}","{'text': 'Subway', 'languageCode': 'en'}",25.8908752,-80.17913539999999,39
+"{'latitude': 25.7389679, 'longitude': -80.2391116}","{'text': 'Subway', 'languageCode': 'en'}",25.7389679,-80.2391116,18
+"{'latitude': 25.7653039, 'longitude': -80.1939701}","{'text': 'Subway', 'languageCode': 'en'}",25.7653039,-80.1939701,7
+"{'latitude': 25.8136865, 'longitude': -80.12319719999999}","{'text': 'Subway', 'languageCode': 'en'}",25.8136865,-80.12319719999999,15
+"{'latitude': 25.7791435, 'longitude': -80.1329107}","{'text': 'Subway', 'languageCode': 'en'}",25.7791435,-80.1329107,27
+"{'latitude': 25.900096299999998, 'longitude': -80.25330249999999}","{'text': 'Tri Rail Opa Locka', 'languageCode': 'en'}",25.900096299999998,-80.25330249999999,16
+"{'latitude': 25.824482999999997, 'longitude': -80.279196}","{'text': 'E 3 St@E 1 Av', 'languageCode': 'en'}",25.824482999999997,-80.279196,25
+"{'latitude': 25.82427, 'longitude': -80.279457}","{'text': 'E 1 Av & E 3 St', 'languageCode': 'en'}",25.82427,-80.279457,25
+"{'latitude': 25.824621999999998, 'longitude': -80.279093}","{'text': 'E 3 St & E 1 Av', 'languageCode': 'en'}",25.824621999999998,-80.279093,25
+"{'latitude': 25.867126, 'longitude': -80.2667685}","{'text': 'E 49 St@E 8 Av', 'languageCode': 'en'}",25.867126,-80.2667685,44
+"{'latitude': 25.867214, 'longitude': -80.266334}","{'text': 'E 49 St & E 8 Av', 'languageCode': 'en'}",25.867214,-80.266334,44
+"{'latitude': 25.86684, 'longitude': -80.266909}","{'text': 'E 8 Av & 49 St Hialeah', 'languageCode': 'en'}",25.86684,-80.266909,44
+"{'latitude': 25.866923999999997, 'longitude': -80.266633}","{'text': 'E 8 Av & 49 St Hialeah', 'languageCode': 'en'}",25.866923999999997,-80.266633,44
+"{'latitude': 25.688408499999998, 'longitude': -80.3129766}","{'text': 'Dadeland Bd@SW 88 St', 'languageCode': 'en'}",25.688408499999998,-80.3129766,1
+"{'latitude': 25.75818, 'longitude': -80.30362}","{'text': 'SW 67 Av & SW 14 St', 'languageCode': 'en'}",25.75818,-80.30362,45
+"{'latitude': 25.757792499999997, 'longitude': -80.3037325}","{'text': 'SW 67 Av@SW 14 St', 'languageCode': 'en'}",25.757792499999997,-80.3037325,45
+"{'latitude': 25.757405000000002, 'longitude': -80.303845}","{'text': 'SW 67 Av & SW 14 St', 'languageCode': 'en'}",25.757405000000002,-80.303845,45
+"{'latitude': 25.777893199999998, 'longitude': -80.287864}","{'text': 'NW 57 Av@NW 7 St', 'languageCode': 'en'}",25.777893199999998,-80.287864,17
+"{'latitude': 25.777908999999998, 'longitude': -80.287263}","{'text': 'NW 7 St & NW 57 Av', 'languageCode': 'en'}",25.777908999999998,-80.287263,17
+"{'latitude': 25.777673, 'longitude': -80.288465}","{'text': 'NW 57 Av & NW 7 St', 'languageCode': 'en'}",25.777673,-80.288465,17
+"{'latitude': 25.68883, 'longitude': -80.312383}","{'text': 'SW 88 St & Dadeland Blvd', 'languageCode': 'en'}",25.68883,-80.312383,1
+"{'latitude': 25.68846, 'longitude': -80.319761}","{'text': 'SW 88 St@SW 77 Av', 'languageCode': 'en'}",25.68846,-80.319761,37
+"{'latitude': 25.68862, 'longitude': -80.31957299999999}","{'text': 'SW 88 St & SW 77 Av', 'languageCode': 'en'}",25.68862,-80.31957299999999,37
+"{'latitude': 25.688299999999998, 'longitude': -80.31992}","{'text': 'SW 88 St & SW 77 Av', 'languageCode': 'en'}",25.688299999999998,-80.31992,37
+"{'latitude': 25.703958, 'longitude': -80.294339}","{'text': 'SW 72 St & SW 62 Pl', 'languageCode': 'en'}",25.703958,-80.294339,38
+"{'latitude': 25.704193999999998, 'longitude': -80.294457}","{'text': 'SW 72 St & SW 62 Av', 'languageCode': 'en'}",25.704193999999998,-80.294457,38
+"{'latitude': 25.824334, 'longitude': -80.224978}","{'text': 'NW 54 St & NW 17 Av', 'languageCode': 'en'}",25.824334,-80.224978,2
+"{'latitude': 25.824506, 'longitude': -80.22496199999999}","{'text': 'NW 54 St & NW 17 Av', 'languageCode': 'en'}",25.824506,-80.22496199999999,2
+"{'latitude': 25.823276, 'longitude': -80.2245045}","{'text': 'NW 17 Av@NW 52 St', 'languageCode': 'en'}",25.823276,-80.2245045,2
+"{'latitude': 25.824099999999998, 'longitude': -80.224645}","{'text': 'NW 17 Av & NW 54 St', 'languageCode': 'en'}",25.824099999999998,-80.224645,2
+"{'latitude': 25.837605, 'longitude': -80.2087485}","{'text': 'NW 7 Av@NW 69 St', 'languageCode': 'en'}",25.837605,-80.2087485,32
+"{'latitude': 25.837626999999998, 'longitude': -80.208655}","{'text': 'NW 7 Av & NW 69 St', 'languageCode': 'en'}",25.837626999999998,-80.208655,32
+"{'latitude': 25.926019999999998, 'longitude': -80.160039}","{'text': 'NE 163 St@NE 20 Av', 'languageCode': 'en'}",25.926019999999998,-80.160039,40
+"{'latitude': 25.925897, 'longitude': -80.159678}","{'text': 'NE 163 St & NE 20 Av', 'languageCode': 'en'}",25.925897,-80.159678,40
+"{'latitude': 25.732903, 'longitude': -80.235817}","{'text': 'Tigertail Av & Blaine St', 'languageCode': 'en'}",25.732903,-80.235817,26
+"{'latitude': 25.732221, 'longitude': -80.254218}","{'text': 'US 1 & SW 37 Av N & N', 'languageCode': 'en'}",25.732221,-80.254218,30
+"{'latitude': 25.765667, 'longitude': -80.230757}","{'text': 'SW 22 Av@SW 8 St', 'languageCode': 'en'}",25.765667,-80.230757,46
+"{'latitude': 25.765604999999997, 'longitude': -80.23078799999999}","{'text': 'SW 22 Av & SW 8 St', 'languageCode': 'en'}",25.765604999999997,-80.23078799999999,46
+"{'latitude': 25.766016999999998, 'longitude': -80.230577}","{'text': 'SW 22 Av & SW 8 St', 'languageCode': 'en'}",25.766016999999998,-80.230577,46
+"{'latitude': 25.833515, 'longitude': -80.184153}","{'text': 'Biscayne Blvd & NE 62 St', 'languageCode': 'en'}",25.833515,-80.184153,47
+"{'latitude': 25.833520999999998, 'longitude': -80.184353}","{'text': 'Biscayne Bd@NE 62 St', 'languageCode': 'en'}",25.833520999999998,-80.184353,47
+"{'latitude': 25.878932, 'longitude': -80.167525}","{'text': 'Biscayne Blvd & NE 111 St', 'languageCode': 'en'}",25.878932,-80.167525,3
+"{'latitude': 25.87889, 'longitude': -80.167796}","{'text': 'Biscayne Blvd & NE 111 St', 'languageCode': 'en'}",25.87889,-80.167796,3
+"{'latitude': 25.879966, 'longitude': -80.167057}","{'text': 'Biscayne Blvd & 11200 Block', 'languageCode': 'en'}",25.879966,-80.167057,3
+"{'latitude': 25.923755999999997, 'longitude': -80.1223625}","{'text': 'Collins Av@159 St-Kings PT Dr', 'languageCode': 'en'}",25.923755999999997,-80.1223625,6
+"{'latitude': 25.922749999999997, 'longitude': -80.122559}","{'text': 'Bayview Dr. & Collins Av', 'languageCode': 'en'}",25.922749999999997,-80.122559,6
+"{'latitude': 25.924046999999998, 'longitude': -80.122502}","{'text': 'Collins Av & 159 St-Kings Pt Dr', 'languageCode': 'en'}",25.924046999999998,-80.122502,6
+"{'latitude': 25.923465000000004, 'longitude': -80.12222299999999}","{'text': 'Collins Av & 159 St-Kings Pt Dr', 'languageCode': 'en'}",25.923465000000004,-80.12222299999999,6
+"{'latitude': 25.9376422, 'longitude': -80.12175479999999}","{'text': 'Collins Av@174 St', 'languageCode': 'en'}",25.9376422,-80.12175479999999,22
+"{'latitude': 25.9374236, 'longitude': -80.1214048}","{'text': 'Collins Av & 174 St', 'languageCode': 'en'}",25.9374236,-80.1214048,22
+"{'latitude': 25.76155, 'longitude': -80.198011}","{'text': 'SW 13 St & SW 2 Av', 'languageCode': 'en'}",25.76155,-80.198011,8
+"{'latitude': 25.766185, 'longitude': -80.197878}","{'text': 'SW 8 St & SW 2 Av', 'languageCode': 'en'}",25.766185,-80.197878,4
+"{'latitude': 25.765067, 'longitude': -80.197464}","{'text': 'SW 2 Av & SW 9 St', 'languageCode': 'en'}",25.765067,-80.197464,4
+"{'latitude': 25.761355, 'longitude': -80.198289}","{'text': 'SW 13 St & SW 3 Av', 'languageCode': 'en'}",25.761355,-80.198289,8
+"{'latitude': 25.7670238, 'longitude': -80.1973478}","{'text': 'SW 2 Av & SW 8 St', 'languageCode': 'en'}",25.7670238,-80.1973478,4
+"{'latitude': 25.7673, 'longitude': -80.19774799999999}","{'text': 'SW 7 St & SW 2 Av', 'languageCode': 'en'}",25.7673,-80.19774799999999,4
+"{'latitude': 25.761225999999997, 'longitude': -80.199446}","{'text': 'SW 3 Av & SW 15 Rd', 'languageCode': 'en'}",25.761225999999997,-80.199446,8
+"{'latitude': 25.7666044, 'longitude': -80.1976129}","{'text': 'SW 2 Av & SW 8 St', 'languageCode': 'en'}",25.7666044,-80.1976129,4
+"{'latitude': 25.761173000000003, 'longitude': -80.192184}","{'text': 'Brickell Av & SE 13 St', 'languageCode': 'en'}",25.761173000000003,-80.192184,9
+"{'latitude': 25.764542, 'longitude': -80.192713}","{'text': 'SE 10 St & SE 1 Av', 'languageCode': 'en'}",25.764542,-80.192713,7
+"{'latitude': 25.766012, 'longitude': -80.19728099999999}","{'text': 'SW 2 Av & SW 8 St', 'languageCode': 'en'}",25.766012,-80.19728099999999,4
+"{'latitude': 25.865854, 'longitude': -80.122321}","{'text': 'Harding Av & 81 St', 'languageCode': 'en'}",25.865854,-80.122321,12
+"{'latitude': 25.870403999999997, 'longitude': -80.122554}","{'text': 'Harding Av & 85 St', 'languageCode': 'en'}",25.870403999999997,-80.122554,11
+"{'latitude': 25.870268, 'longitude': -80.121307}","{'text': 'Collins Av & 85 St', 'languageCode': 'en'}",25.870268,-80.121307,11
+"{'latitude': 25.8701355, 'longitude': -80.122614}","{'text': '85 St@Harding Av', 'languageCode': 'en'}",25.8701355,-80.122614,11
+"{'latitude': 25.867817000000002, 'longitude': -80.122354}","{'text': 'Harding Av & 83 St', 'languageCode': 'en'}",25.867817000000002,-80.122354,13
+"{'latitude': 25.866339, 'longitude': -80.121082}","{'text': 'Collins Av & 81 St', 'languageCode': 'en'}",25.866339,-80.121082,12
+"{'latitude': 25.7743604, 'longitude': -80.1397677}","{'text': '5 St@Lenox Av', 'languageCode': 'en'}",25.7743604,-80.1397677,23
+"{'latitude': 25.774563, 'longitude': -80.13863099999999}","{'text': '5 St & Michigan Av', 'languageCode': 'en'}",25.774563,-80.13863099999999,23
+"{'latitude': 25.773325, 'longitude': -80.140198}","{'text': 'Alton Rd & 4 St', 'languageCode': 'en'}",25.773325,-80.140198,23
+"{'latitude': 25.774525, 'longitude': -80.139828}","{'text': '5 St & Lenox Av', 'languageCode': 'en'}",25.774525,-80.139828,23
+"{'latitude': 25.773306, 'longitude': -80.139941}","{'text': 'Alton Rd & 4 St', 'languageCode': 'en'}",25.773306,-80.139941,23
+"{'latitude': 25.795458999999997, 'longitude': -80.143498}","{'text': '20 St & Bay Rd', 'languageCode': 'en'}",25.795458999999997,-80.143498,48
+"{'latitude': 25.775888499999997, 'longitude': -80.1407837}","{'text': 'Alton Rd@6 St', 'languageCode': 'en'}",25.775888499999997,-80.1407837,23
+"{'latitude': 25.787418, 'longitude': -80.13165}","{'text': 'Washington Av & 15 St', 'languageCode': 'en'}",25.787418,-80.13165,49
+"{'latitude': 25.795482999999997, 'longitude': -80.142555}","{'text': 'West Av & 20 St', 'languageCode': 'en'}",25.795482999999997,-80.142555,48
+"{'latitude': 25.795028, 'longitude': -80.143681}","{'text': 'Bay Rd & 20 St', 'languageCode': 'en'}",25.795028,-80.143681,48
+"{'latitude': 25.7843585, 'longitude': -80.1320825}","{'text': 'Washington Av@13 St', 'languageCode': 'en'}",25.7843585,-80.1320825,14
+"{'latitude': 25.794985999999998, 'longitude': -80.14262599999999}","{'text': 'West Av & 20 St', 'languageCode': 'en'}",25.794985999999998,-80.14262599999999,48
+"{'latitude': 25.779676, 'longitude': -80.133152}","{'text': 'Washington Av & 9 St', 'languageCode': 'en'}",25.779676,-80.133152,27
+"{'latitude': 25.812789, 'longitude': -80.122965}","{'text': 'Collins Av & 41 St', 'languageCode': 'en'}",25.812789,-80.122965,15
+"{'latitude': 25.814894, 'longitude': -80.12376400000001}","{'text': 'Indian Creek & 43 St', 'languageCode': 'en'}",25.814894,-80.12376400000001,15
+"{'latitude': 25.815727, 'longitude': -80.12252099999999}","{'text': 'Collins Av & 44 St', 'languageCode': 'en'}",25.815727,-80.12252099999999,15
+"{'latitude': 25.774876499999998, 'longitude': -80.1340945}","{'text': 'Washington Av@5 St', 'languageCode': 'en'}",25.774876499999998,-80.1340945,19
+"{'latitude': 25.771332500000003, 'longitude': -80.134844}","{'text': 'Washington Av@2 St', 'languageCode': 'en'}",25.771332500000003,-80.134844,42
+"{'latitude': 25.773479000000002, 'longitude': -80.134221}","{'text': 'Washington Av & 4 St', 'languageCode': 'en'}",25.773479000000002,-80.134221,36
+"{'latitude': 25.771341, 'longitude': -80.13470699999999}","{'text': 'Washington Av & 2 St', 'languageCode': 'en'}",25.771341,-80.13470699999999,42
+"{'latitude': 25.779829499999998, 'longitude': -80.1330275}","{'text': 'Washington Av@9 St', 'languageCode': 'en'}",25.779829499999998,-80.1330275,27
+"{'latitude': 25.773446999999997, 'longitude': -80.134562}","{'text': 'Washington Av & 4 St', 'languageCode': 'en'}",25.773446999999997,-80.134562,36
+"{'latitude': 25.798951, 'longitude': -80.12777899999999}","{'text': 'Collins Av@23 St', 'languageCode': 'en'}",25.798951,-80.12777899999999,24
+"{'latitude': 25.799211999999997, 'longitude': -80.127776}","{'text': 'Collins Av & 23 St', 'languageCode': 'en'}",25.799211999999997,-80.127776,24
+"{'latitude': 25.732785999999997, 'longitude': -80.233732}","{'text': 'Aviation Av & St Bayshore Dr', 'languageCode': 'en'}",25.732785999999997,-80.233732,26
+"{'latitude': 25.798564, 'longitude': -80.128941}","{'text': '23 St & Liberty Av', 'languageCode': 'en'}",25.798564,-80.128941,24
+"{'latitude': 25.785639999999997, 'longitude': -80.131793}","{'text': 'Washington Av & 14 St', 'languageCode': 'en'}",25.785639999999997,-80.131793,14

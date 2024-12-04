@@ -1,0 +1,3707 @@
+{
+    "33010": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33010",
+                "params": {
+                    "g": "860XX00US33010"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "43902",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "41053",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "19.3",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "56.1",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "16066",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "21.0",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1139",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "15709",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "41446",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.833202,
+        "lng": -80.27872
+    },
+    "33012": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33012",
+                "params": {
+                    "g": "860XX00US33012"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "70260",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "41921",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "17.4",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "56.5",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "25184",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "17.4",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1910",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "25048",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "66622",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.866106,
+        "lng": -80.301115
+    },
+    "33013": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33013",
+                "params": {
+                    "g": "860XX00US33013"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "31068",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "54842",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "17.0",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "58.8",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "9912",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "16.0",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "782",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "9356",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "29330",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.86219,
+        "lng": -80.269677
+    },
+    "33101": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33101",
+                "params": {
+                    "g": "860XX00US33101"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "7",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "-",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "-",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "-",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "1",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "-",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "25",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "0",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "4",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.779298,
+        "lng": -80.198739
+    },
+    "33109": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33109",
+                "params": {
+                    "g": "860XX00US33109"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "684",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "250,000+",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "73.1",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "44.6",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "949",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "2.1",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "33",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "328",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "92",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.756717,
+        "lng": -80.140066
+    },
+    "33122": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33122",
+                "params": {
+                    "g": "860XX00US33122"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "2126",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "84329",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "59.7",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "65.7",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "1141",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "6.2",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1391",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "816",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "1622",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.794856,
+        "lng": -80.288375
+    },
+    "33125": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33125",
+                "params": {
+                    "g": "860XX00US33125"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "53507",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "37370",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "19.6",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "57.8",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "20874",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "25.5",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "831",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "21227",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "48332",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.783849,
+        "lng": -80.23609
+    },
+    "33126": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33126",
+                "params": {
+                    "g": "860XX00US33126"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "48751",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "51733",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "26.8",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "63.1",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "19679",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "14.6",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "2402",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "18073",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "45517",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.7794,
+        "lng": -80.299475
+    },
+    "33127": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33127",
+                "params": {
+                    "g": "860XX00US33127"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "27692",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "39690",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "13.7",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "52.3",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "11214",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "23.0",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "967",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "9661",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "14460",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.813175,
+        "lng": -80.205808
+    },
+    "33128": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33128",
+                "params": {
+                    "g": "860XX00US33128"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "8213",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "33697",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "18.1",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "61.5",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "4302",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "32.1",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "154",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "3907",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "7239",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.776168,
+        "lng": -80.203733
+    },
+    "33129": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33129",
+                "params": {
+                    "g": "860XX00US33129"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "15218",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "93343",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "66.4",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "68.3",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "8174",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "7.3",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "605",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "7267",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "10831",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.750167,
+        "lng": -80.190028
+    },
+    "33130": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33130",
+                "params": {
+                    "g": "860XX00US33130"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "35609",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "55285",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "39.9",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "68.4",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "19947",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "19.7",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1523",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "16915",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "25365",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.768524,
+        "lng": -80.203359
+    },
+    "33131": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33131",
+                "params": {
+                    "g": "860XX00US33131"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "26213",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "121730",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "77.9",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "81.7",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "17924",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "10.8",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "3859",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "12552",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "13264",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.766206,
+        "lng": -80.182897
+    },
+    "33132": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33132",
+                "params": {
+                    "g": "860XX00US33132"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "18159",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "101518",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "60.6",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "71.4",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "12244",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "15.3",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1404",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "8969",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "8828",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.77789,
+        "lng": -80.176165
+    },
+    "33133": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33133",
+                "params": {
+                    "g": "860XX00US33133"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "34141",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "87924",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "59.7",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "66.5",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "16699",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "9.3",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1720",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "14479",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "18468",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.728662,
+        "lng": -80.239996
+    },
+    "33134": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33134",
+                "params": {
+                    "g": "860XX00US33134"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "38739",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "82925",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "53.5",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "61.0",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "18297",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "9.3",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "3864",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "16251",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "28831",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.753332,
+        "lng": -80.270379
+    },
+    "33135": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33135",
+                "params": {
+                    "g": "860XX00US33135"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "36232",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "35185",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "19.9",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "58.7",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "15811",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "21.3",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "838",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "14513",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "33661",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.766544,
+        "lng": -80.235095
+    },
+    "33136": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33136",
+                "params": {
+                    "g": "860XX00US33136"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "15439",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "35129",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "22.4",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "54.3",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "7519",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "24.2",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "372",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "6894",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "7762",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.787182,
+        "lng": -80.204722
+    },
+    "33137": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33137",
+                "params": {
+                    "g": "860XX00US33137"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "25763",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "71348",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "50.9",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "70.1",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "16109",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "16.9",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1533",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "11498",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "12864",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.816281,
+        "lng": -80.171528
+    },
+    "33138": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33138",
+                "params": {
+                    "g": "860XX00US33138"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "27601",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "58990",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "45.9",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "64.8",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "13823",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "14.9",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1215",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "12701",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "10877",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.853764,
+        "lng": -80.178006
+    },
+    "33139": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33139",
+                "params": {
+                    "g": "860XX00US33139"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "36286",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "60971",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "51.9",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "67.1",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "30128",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "22.0",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "2787",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "20113",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "15975",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.779808,
+        "lng": -80.1532
+    },
+    "33140": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33140",
+                "params": {
+                    "g": "860XX00US33140"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "19315",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "98935",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "61.5",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "64.0",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "16005",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "7.7",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1108",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "8579",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "7951",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.819714,
+        "lng": -80.133711
+    },
+    "33141": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33141",
+                "params": {
+                    "g": "860XX00US33141"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "35995",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "61205",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "42.7",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "67.3",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "22225",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "19.6",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "923",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "16685",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "23069",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.851854,
+        "lng": -80.138726
+    },
+    "33142": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33142",
+                "params": {
+                    "g": "860XX00US33142"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "55425",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "35589",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "12.1",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "55.6",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "21150",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "26.6",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1662",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "20178",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "36976",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.812043,
+        "lng": -80.238614
+    },
+    "33143": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33143",
+                "params": {
+                    "g": "860XX00US33143"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "34853",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "78525",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "59.8",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "61.4",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "16829",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "7.9",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1674",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "13337",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "20859",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.703032,
+        "lng": -80.297375
+    },
+    "33144": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33144",
+                "params": {
+                    "g": "860XX00US33144"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "25814",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "58382",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "28.5",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "58.6",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "9558",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "13.3",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1206",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "9296",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "24035",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.763458,
+        "lng": -80.312667
+    },
+    "33145": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33145",
+                "params": {
+                    "g": "860XX00US33145"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "29737",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "68717",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "42.1",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "61.9",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "12718",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "13.2",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1108",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "11809",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "24779",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.753132,
+        "lng": -80.234427
+    },
+    "33146": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33146",
+                "params": {
+                    "g": "860XX00US33146"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "16468",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "125720",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "76.2",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "47.3",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "6108",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "4.2",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "1108",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "5357",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "8341",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.72085,
+        "lng": -80.272571
+    },
+    "33147": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33147",
+                "params": {
+                    "g": "860XX00US33147"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "48823",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "45092",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "16.1",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "52.9",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "17042",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "18.8",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "798",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "14613",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "24631",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.851225,
+        "lng": -80.238166
+    },
+    "33149": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33149",
+                "params": {
+                    "g": "860XX00US33149"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "14847",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "169792",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "73.1",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "55.0",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "7229",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "3.3",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "653",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "4676",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "9900",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.719513,
+        "lng": -80.168541
+    },
+    "33150": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33150",
+                "params": {
+                    "g": "860XX00US33150"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "28703",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "33629",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "13.8",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "51.7",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "10900",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "21.7",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "497",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "10910",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "9388",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.85219,
+        "lng": -80.207174
+    },
+    "33154": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33154",
+                "params": {
+                    "g": "860XX00US33154"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "14792",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "75540",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "57.2",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "60.3",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "10491",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "11.6",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "816",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "5666",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "6100",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.883337,
+        "lng": -80.131831
+    },
+    "33155": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33155",
+                "params": {
+                    "g": "860XX00US33155"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "43695",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "82321",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "36.5",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "63.6",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "16549",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "7.0",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "2348",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "14905",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "36793",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.736887,
+        "lng": -80.310768
+    },
+    "33156": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33156",
+                "params": {
+                    "g": "860XX00US33156"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "34036",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "133862",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "66.3",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "60.4",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "13737",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "3.9",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "2165",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "11862",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "19068",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.668203,
+        "lng": -80.29701
+    },
+    "33161": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33161",
+                "params": {
+                    "g": "860XX00US33161"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "53015",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "49159",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "19.9",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "59.5",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "18822",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "22.6",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "945",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "17162",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "15941",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.893664,
+        "lng": -80.181539
+    },
+    "33166": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33166",
+                "params": {
+                    "g": "860XX00US33166"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "26106",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "74819",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "41.5",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "66.4",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "10223",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "12.6",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "4287",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "9834",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "20848",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.827855,
+        "lng": -80.316183
+    },
+    "33167": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33167",
+                "params": {
+                    "g": "860XX00US33167"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "19142",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "56044",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "16.4",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "56.2",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "6380",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "17.5",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "270",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "6639",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "6406",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.884867,
+        "lng": -80.239362
+    },
+    "33168": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33168",
+                "params": {
+                    "g": "860XX00US33168"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "24715",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "55866",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "15.0",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "56.6",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "7147",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "22.7",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "397",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "6486",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "6957",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.893051,
+        "lng": -80.209181
+    },
+    "33181": {
+        "data": {
+            "selectedProfile": {
+                "label": "ZCTA5 33181",
+                "params": {
+                    "g": "860XX00US33181"
+                }
+            },
+            "highlights": [
+                {
+                    "format": "number",
+                    "value": "20955",
+                    "topic": "Populations and People",
+                    "label": "Total Population",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P1"
+                },
+                {
+                    "format": "dollar",
+                    "value": "54618",
+                    "topic": "Income and Poverty",
+                    "label": "Median Household Income",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1901"
+                },
+                {
+                    "format": "percent",
+                    "value": "37.9",
+                    "topic": "Education",
+                    "label": "Bachelor's Degree or Higher",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S1501"
+                },
+                {
+                    "format": "percent",
+                    "value": "65.1",
+                    "topic": "Employment",
+                    "label": "Employment Rate",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP03"
+                },
+                {
+                    "format": "number",
+                    "value": "10084",
+                    "topic": "Housing",
+                    "label": "Total Housing Units",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.H1"
+                },
+                {
+                    "format": "percent",
+                    "value": "16.3",
+                    "topic": "Health",
+                    "label": "Without Health Care Coverage",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSST5Y2022.S2701"
+                },
+                {
+                    "format": "number",
+                    "value": "997",
+                    "topic": "Business and Economy",
+                    "label": "Total Employer Establishments",
+                    "sourceLink": "https://www.census.gov/programs-surveys/cbp.html",
+                    "source": "2021 Economic Surveys Business Patterns",
+                    "tableId": "CBP2021.CB2100CBP"
+                },
+                {
+                    "format": "number",
+                    "value": "8384",
+                    "topic": "Families and Living Arrangements",
+                    "label": "Total Households",
+                    "sourceLink": "https://www.census.gov/programs-surveys/acs.html",
+                    "source": "2022 American Community Survey 5-Year Estimates",
+                    "tableId": "ACSDP5Y2022.DP02"
+                },
+                {
+                    "format": "number",
+                    "value": "9817",
+                    "topic": "Race and Ethnicity",
+                    "label": "Hispanic or Latino (of any race)",
+                    "sourceLink": "https://www.census.gov/programs-surveys/decennial-census/about/rdo.html",
+                    "source": "2020 Decennial Census",
+                    "tableId": "DECENNIALDHC2020.P9"
+                }
+            ]
+        },
+        "lat": 25.897992,
+        "lng": -80.152331
+    }
+}
